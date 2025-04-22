@@ -1,0 +1,1371 @@
+match_id,team,total_xG,avg_shot_xG,shot_count,goals,conversion_rate,h_team,a_team,team_name
+21925,Away,1.225,0.136111111,9,2,0.222222222,Luton,West Ham,West Ham
+21925,Home,2.204,0.13775,16,1,0.0625,Luton,West Ham,Luton
+21926,Away,3.262,0.191882353,17,2,0.117647059,Sheffield United,Everton,Everton
+21926,Home,1.657,0.127461538,13,1,0.076923077,Sheffield United,Everton,Sheffield United
+21927,Away,1.888,0.314666667,6,1,0.166666667,Manchester City,Fulham,Fulham
+21927,Home,2.041,0.291571429,7,5,0.714285714,Manchester City,Fulham,Manchester City
+21928,Away,2.113,0.176083333,12,2,0.166666667,Brentford,Bournemouth,Bournemouth
+21928,Home,3.071,0.146238095,21,2,0.095238095,Brentford,Bournemouth,Brentford
+21929,Away,2.401,0.12005,20,5,0.25,Burnley,Tottenham,Tottenham
+21929,Home,1.666,0.104125,16,2,0.125,Burnley,Tottenham,Burnley
+21930,Away,1.15,0.164285714,7,1,0.142857143,Chelsea,Nottingham Forest,Nottingham Forest
+21930,Home,2.285,0.108809524,21,0,0,Chelsea,Nottingham Forest,Chelsea
+21931,Away,0.905,0.100555556,9,1,0.111111111,Brighton,Newcastle United,Newcastle United
+21931,Home,1.377,0.0918,15,3,0.2,Brighton,Newcastle United,Brighton
+21932,Away,1.14,0.095,12,2,0.166666667,Crystal Palace,Wolverhampton Wanderers,Wolverhampton Wanderers
+21932,Home,2.358,0.147375,16,3,0.1875,Crystal Palace,Wolverhampton Wanderers,Crystal Palace
+21933,Away,0.615,0.0615,10,0,0,Liverpool,Aston Villa,Aston Villa
+21933,Home,2.743,0.161352941,17,2,0.117647059,Liverpool,Aston Villa,Liverpool
+21934,Away,0.984,0.0984,10,1,0.1,Arsenal,Manchester United,Manchester United
+21934,Home,1.911,0.112411765,17,3,0.176470588,Arsenal,Manchester United,Arsenal
+21935,Away,2.826,0.176625,16,2,0.125,Wolverhampton Wanderers,Liverpool,Liverpool
+21935,Home,0.537,0.04475,12,1,0.083333333,Wolverhampton Wanderers,Liverpool,Wolverhampton Wanderers
+21936,Away,0.79,0.112857143,7,1,0.142857143,Tottenham,Sheffield United,Sheffield United
+21936,Home,2.158,0.077071429,28,2,0.071428571,Tottenham,Sheffield United,Tottenham
+21937,Away,4.361,0.15037931,29,3,0.103448276,West Ham,Manchester City,Manchester City
+21937,Home,0.896,0.149333333,6,1,0.166666667,West Ham,Manchester City,West Ham
+21938,Away,1.117,0.186166667,6,1,0.166666667,Aston Villa,Crystal Palace,Crystal Palace
+21938,Home,2.317,0.1448125,16,3,0.1875,Aston Villa,Crystal Palace,Aston Villa
+21939,Away,1.457,0.208142857,7,0,0,Fulham,Luton,Luton
+21939,Home,1.756,0.135076923,13,1,0.076923077,Fulham,Luton,Fulham
+21940,Away,1.94,0.194,10,3,0.3,Manchester United,Brighton,Brighton
+21940,Home,0.719,0.051357143,14,1,0.071428571,Manchester United,Brighton,Manchester United
+21941,Away,0.828,0.063692308,13,1,0.076923077,Everton,Arsenal,Arsenal
+21941,Home,0.284,0.0355,8,0,0,Everton,Arsenal,Everton
+21942,Away,1.417,0.101214286,14,0,0,Bournemouth,Chelsea,Chelsea
+21942,Home,1.327,0.102076923,13,0,0,Bournemouth,Chelsea,Bournemouth
+21943,Away,0.634,0.057636364,11,0,0,Newcastle United,Brentford,Brentford
+21943,Home,1.534,0.170444444,9,1,0.111111111,Newcastle United,Brentford,Newcastle United
+21944,Away,0.812,0.0812,10,1,0.1,Nottingham Forest,Burnley,Burnley
+21944,Home,0.707,0.0505,14,1,0.071428571,Nottingham Forest,Burnley,Nottingham Forest
+21945,Away,0.792,0.264,3,1,0.333333333,Luton,Wolverhampton Wanderers,Wolverhampton Wanderers
+21945,Home,2.239,0.11195,20,1,0.05,Luton,Wolverhampton Wanderers,Luton
+21946,Away,0.73,0.073,10,0,0,Manchester City,Nottingham Forest,Nottingham Forest
+21946,Home,1.341,0.191571429,7,2,0.285714286,Manchester City,Nottingham Forest,Manchester City
+21947,Away,1.143,0.0762,15,1,0.066666667,Chelsea,Aston Villa,Aston Villa
+21947,Home,1.198,0.1198,10,0,0,Chelsea,Aston Villa,Chelsea
+21948,Away,0.548,0.0548,10,0,0,Crystal Palace,Fulham,Fulham
+21948,Home,0.371,0.053,7,0,0,Crystal Palace,Fulham,Crystal Palace
+21949,Away,2.515,0.139722222,18,3,0.166666667,Brentford,Everton,Everton
+21949,Home,1.757,0.146416667,12,1,0.083333333,Brentford,Everton,Brentford
+21950,Away,0.841,0.076454545,11,1,0.090909091,Burnley,Manchester United,Manchester United
+21950,Home,0.936,0.078,12,0,0,Burnley,Manchester United,Burnley
+21951,Away,1.62,0.124615385,13,1,0.076923077,Brighton,Bournemouth,Bournemouth
+21951,Home,2.151,0.165461538,13,2,0.153846154,Brighton,Bournemouth,Brighton
+21952,Away,2.212,0.158,14,2,0.142857143,Arsenal,Tottenham,Tottenham
+21952,Home,2.342,0.180153846,13,1,0.076923077,Arsenal,Tottenham,Arsenal
+21953,Away,1.539,0.139909091,11,1,0.090909091,Liverpool,West Ham,West Ham
+21953,Home,4.14,0.188181818,22,3,0.136363636,Liverpool,West Ham,Liverpool
+21954,Away,5.151,0.234136364,22,8,0.363636364,Sheffield United,Newcastle United,Newcastle United
+21954,Home,0.579,0.064333333,9,0,0,Sheffield United,Newcastle United,Sheffield United
+21955,Away,1.729,0.144083333,12,1,0.083333333,Aston Villa,Brighton,Brighton
+21955,Home,1.924,0.101263158,19,5,0.263157895,Aston Villa,Brighton,Aston Villa
+21956,Away,1.545,0.171666667,9,2,0.222222222,Everton,Luton,Luton
+21956,Home,4.172,0.181391304,23,1,0.043478261,Everton,Luton,Everton
+21957,Away,1.191,0.148875,8,1,0.125,Manchester United,Crystal Palace,Crystal Palace
+21957,Home,1.555,0.081842105,19,0,0,Manchester United,Crystal Palace,Manchester United
+21958,Away,0.835,0.104375,8,0,0,Newcastle United,Burnley,Burnley
+21958,Home,3.329,0.16645,20,2,0.1,Newcastle United,Burnley,Newcastle United
+21959,Away,4.136,0.275733333,15,4,0.266666667,Bournemouth,Arsenal,Arsenal
+21959,Home,0.646,0.08075,8,0,0,Bournemouth,Arsenal,Bournemouth
+21960,Away,0.92,0.0575,16,0,0,West Ham,Sheffield United,Sheffield United
+21960,Home,3.441,0.17205,20,2,0.1,West Ham,Sheffield United,West Ham
+21961,Away,0.984,0.041,24,1,0.041666667,Wolverhampton Wanderers,Manchester City,Manchester City
+21961,Home,0.674,0.224666667,3,1,0.333333333,Wolverhampton Wanderers,Manchester City,Wolverhampton Wanderers
+21962,Away,1.131,0.087,13,1,0.076923077,Tottenham,Liverpool,Liverpool
+21962,Home,2.204,0.091833333,24,1,0.041666667,Tottenham,Liverpool,Tottenham
+21963,Away,1.759,0.097722222,18,1,0.055555556,Nottingham Forest,Brentford,Brentford
+21963,Home,0.8,0.133333333,6,1,0.166666667,Nottingham Forest,Brentford,Nottingham Forest
+21964,Away,2.039,0.185363636,11,2,0.181818182,Fulham,Chelsea,Chelsea
+21964,Home,0.939,0.0939,10,0,0,Fulham,Chelsea,Fulham
+21965,Away,0.858,0.2145,4,0,0,Arsenal,Manchester City,Manchester City
+21965,Home,0.39,0.0325,12,1,0.083333333,Arsenal,Manchester City,Arsenal
+21966,Away,2.512,0.179428571,14,2,0.142857143,Brighton,Liverpool,Liverpool
+21966,Home,2.234,0.159571429,14,2,0.142857143,Brighton,Liverpool,Brighton
+21967,Away,1.976,0.219555556,9,3,0.333333333,Burnley,Chelsea,Chelsea
+21967,Home,0.958,0.087090909,11,1,0.090909091,Burnley,Chelsea,Burnley
+21968,Away,1.264,0.079,16,0,0,Crystal Palace,Nottingham Forest,Nottingham Forest
+21968,Home,0.983,0.122875,8,0,0,Crystal Palace,Nottingham Forest,Crystal Palace
+21969,Away,0.982,0.089272727,11,0,0,Everton,Bournemouth,Bournemouth
+21969,Home,3.624,0.14496,25,3,0.12,Everton,Bournemouth,Everton
+21970,Away,0.252,0.042,6,0,0,Fulham,Sheffield United,Sheffield United
+21970,Home,2.267,0.107952381,21,2,0.095238095,Fulham,Sheffield United,Fulham
+21971,Away,2.381,0.158733333,15,1,0.066666667,Luton,Tottenham,Tottenham
+21971,Home,0.847,0.070583333,12,0,0,Luton,Tottenham,Luton
+21972,Away,1.024,0.093090909,11,1,0.090909091,Manchester United,Brentford,Brentford
+21972,Home,1.298,0.061809524,21,2,0.095238095,Manchester United,Brentford,Manchester United
+21973,Away,1.978,0.1978,10,2,0.2,West Ham,Newcastle United,Newcastle United
+21973,Home,0.931,0.1862,5,2,0.4,West Ham,Newcastle United,West Ham
+21974,Away,1.815,0.100833333,18,1,0.055555556,Wolverhampton Wanderers,Aston Villa,Aston Villa
+21974,Home,1.763,0.220375,8,1,0.125,Wolverhampton Wanderers,Aston Villa,Wolverhampton Wanderers
+21975,Away,2.364,0.1182,20,2,0.1,Bournemouth,Wolverhampton Wanderers,Wolverhampton Wanderers
+21975,Home,1.019,0.145571429,7,1,0.142857143,Bournemouth,Wolverhampton Wanderers,Bournemouth
+21976,Away,0.666,0.047571429,14,1,0.071428571,Aston Villa,West Ham,West Ham
+21976,Home,2.341,0.156066667,15,4,0.266666667,Aston Villa,West Ham,Aston Villa
+21977,Away,0.693,0.1155,6,0,0,Brentford,Burnley,Burnley
+21977,Home,3.183,0.138391304,23,3,0.130434783,Brentford,Burnley,Brentford
+21978,Away,1.059,0.081461538,13,2,0.153846154,Chelsea,Arsenal,Arsenal
+21978,Home,1.724,0.156727273,11,2,0.181818182,Chelsea,Arsenal,Chelsea
+21979,Away,0.095,0.015833333,6,0,0,Liverpool,Everton,Everton
+21979,Home,2.287,0.087961538,26,2,0.076923077,Liverpool,Everton,Liverpool
+21980,Away,0.963,0.1926,5,1,0.2,Manchester City,Brighton,Brighton
+21980,Home,0.963,0.0963,10,2,0.2,Manchester City,Brighton,Manchester City
+21981,Away,1.098,0.064588235,17,0,0,Newcastle United,Crystal Palace,Crystal Palace
+21981,Home,3.732,0.3732,10,4,0.4,Newcastle United,Crystal Palace,Newcastle United
+21982,Away,1.499,0.115307692,13,2,0.153846154,Nottingham Forest,Luton,Luton
+21982,Home,3.276,0.172421053,19,2,0.105263158,Nottingham Forest,Luton,Nottingham Forest
+21983,Away,1.477,0.1055,14,2,0.142857143,Sheffield United,Manchester United,Manchester United
+21983,Home,1.409,0.117416667,12,1,0.083333333,Sheffield United,Manchester United,Sheffield United
+21984,Away,0.746,0.0746,10,0,0,Tottenham,Fulham,Fulham
+21984,Home,1.666,0.111066667,15,2,0.133333333,Tottenham,Fulham,Tottenham
+21985,Away,0.903,0.1505,6,1,0.166666667,Bournemouth,Burnley,Burnley
+21985,Home,1.103,0.084846154,13,2,0.153846154,Bournemouth,Burnley,Bournemouth
+21986,Away,0.028,0.014,2,0,0,Arsenal,Sheffield United,Sheffield United
+21986,Home,3.033,0.233307692,13,5,0.384615385,Arsenal,Sheffield United,Arsenal
+21987,Away,0.457,0.057125,8,0,0,Aston Villa,Luton,Luton
+21987,Home,3.419,0.189944444,18,2,0.111111111,Aston Villa,Luton,Aston Villa
+21988,Away,0.557,0.0557,10,1,0.1,Brighton,Fulham,Fulham
+21988,Home,1.33,0.073888889,18,1,0.055555556,Brighton,Fulham,Brighton
+21989,Away,2.481,0.354428571,7,2,0.285714286,Chelsea,Brentford,Brentford
+21989,Home,1.733,0.101941176,17,0,0,Chelsea,Brentford,Chelsea
+21990,Away,0.992,0.0992,10,1,0.1,Crystal Palace,Tottenham,Tottenham
+21990,Home,0.564,0.040285714,14,1,0.071428571,Crystal Palace,Tottenham,Crystal Palace
+21991,Away,0.641,0.071222222,9,0,0,Liverpool,Nottingham Forest,Nottingham Forest
+21991,Home,2.767,0.131761905,21,3,0.142857143,Liverpool,Nottingham Forest,Liverpool
+21992,Away,4.549,0.216619048,21,3,0.142857143,Manchester United,Manchester City,Manchester City
+21992,Home,0.714,0.102,7,0,0,Manchester United,Manchester City,Manchester United
+21993,Away,0.733,0.0733,10,1,0.1,West Ham,Everton,Everton
+21993,Home,0.62,0.051666667,12,0,0,West Ham,Everton,West Ham
+21994,Away,2.658,0.204461538,13,2,0.153846154,Wolverhampton Wanderers,Newcastle United,Newcastle United
+21994,Home,0.863,0.078454545,11,2,0.181818182,Wolverhampton Wanderers,Newcastle United,Wolverhampton Wanderers
+21995,Away,2.08,0.16,13,2,0.153846154,Brentford,West Ham,West Ham
+21995,Home,1.888,0.118,16,2,0.125,Brentford,West Ham,Brentford
+21996,Away,1.436,0.359,4,2,0.5,Burnley,Crystal Palace,Crystal Palace
+21996,Home,1.5,0.088235294,17,0,0,Burnley,Crystal Palace,Burnley
+21997,Away,0.442,0.063142857,7,0,0,Everton,Brighton,Brighton
+21997,Home,0.623,0.056636364,11,1,0.090909091,Everton,Brighton,Everton
+21998,Away,0.699,0.05825,12,1,0.083333333,Fulham,Manchester United,Manchester United
+21998,Home,1.181,0.065611111,18,0,0,Fulham,Manchester United,Fulham
+21999,Away,3.345,0.139375,24,1,0.041666667,Luton,Liverpool,Liverpool
+21999,Home,1.342,0.16775,8,1,0.125,Luton,Liverpool,Luton
+22000,Away,0.643,0.1286,5,1,0.2,Manchester City,Bournemouth,Bournemouth
+22000,Home,2.4,0.114285714,21,6,0.285714286,Manchester City,Bournemouth,Manchester City
+22001,Away,0.536,0.038285714,14,0,0,Newcastle United,Arsenal,Arsenal
+22001,Home,1.248,0.138666667,9,1,0.111111111,Newcastle United,Arsenal,Newcastle United
+22002,Away,1.333,0.102538462,13,0,0,Nottingham Forest,Aston Villa,Aston Villa
+22002,Home,0.593,0.1186,5,2,0.4,Nottingham Forest,Aston Villa,Nottingham Forest
+22003,Away,1.31,0.131,10,1,0.1,Sheffield United,Wolverhampton Wanderers,Wolverhampton Wanderers
+22003,Home,1.1,0.1,11,2,0.181818182,Sheffield United,Wolverhampton Wanderers,Sheffield United
+22004,Away,4.059,0.238764706,17,4,0.235294118,Tottenham,Chelsea,Chelsea
+22004,Home,0.959,0.119875,8,1,0.125,Tottenham,Chelsea,Tottenham
+22005,Away,0.306,0.03825,8,0,0,Bournemouth,Newcastle United,Newcastle United
+22005,Home,2.814,0.148105263,19,2,0.105263158,Bournemouth,Newcastle United,Bournemouth
+22006,Away,0.328,0.041,8,1,0.125,Arsenal,Burnley,Burnley
+22006,Home,2.63,0.164375,16,3,0.1875,Arsenal,Burnley,Arsenal
+22007,Away,0.649,0.0649,10,1,0.1,Aston Villa,Fulham,Fulham
+22007,Home,2.89,0.240833333,12,2,0.166666667,Aston Villa,Fulham,Aston Villa
+22008,Away,0.845,0.093888889,9,0,0,Brighton,Sheffield United,Sheffield United
+22008,Home,1.088,0.090666667,12,1,0.083333333,Brighton,Sheffield United,Brighton
+22009,Away,3.193,0.212866667,15,4,0.266666667,Chelsea,Manchester City,Manchester City
+22009,Home,3.479,0.204647059,17,4,0.235294118,Chelsea,Manchester City,Chelsea
+22010,Away,1.8,0.225,8,3,0.375,Crystal Palace,Everton,Everton
+22010,Home,1.891,0.157583333,12,2,0.166666667,Crystal Palace,Everton,Crystal Palace
+22011,Away,1.451,0.0906875,16,0,0,Liverpool,Brentford,Brentford
+22011,Home,1.561,0.091823529,17,3,0.176470588,Liverpool,Brentford,Liverpool
+22012,Away,0.409,0.0409,10,0,0,Manchester United,Luton,Luton
+22012,Home,2.74,0.182666667,15,1,0.066666667,Manchester United,Luton,Manchester United
+22013,Away,1.475,0.1475,10,2,0.2,West Ham,Nottingham Forest,Nottingham Forest
+22013,Home,2.066,0.129125,16,3,0.1875,West Ham,Nottingham Forest,West Ham
+22014,Away,0.432,0.072,6,1,0.166666667,Wolverhampton Wanderers,Tottenham,Tottenham
+22014,Home,1.923,0.113117647,17,2,0.117647059,Wolverhampton Wanderers,Tottenham,Wolverhampton Wanderers
+22015,Away,1.826,0.121733333,15,1,0.066666667,Brentford,Arsenal,Arsenal
+22015,Home,1.915,0.212777778,9,0,0,Brentford,Arsenal,Brentford
+22016,Away,1.37,0.124545455,11,1,0.090909091,Burnley,West Ham,West Ham
+22016,Home,1.442,0.120166667,12,1,0.083333333,Burnley,West Ham,Burnley
+22017,Away,2.073,0.230333333,9,3,0.333333333,Everton,Manchester United,Manchester United
+22017,Home,2.555,0.111086957,23,0,0,Everton,Manchester United,Everton
+22018,Away,1.579,0.1579,10,2,0.2,Fulham,Wolverhampton Wanderers,Wolverhampton Wanderers
+22018,Home,2.489,0.207416667,12,3,0.25,Fulham,Wolverhampton Wanderers,Fulham
+22019,Away,1.841,0.1150625,16,1,0.0625,Luton,Crystal Palace,Crystal Palace
+22019,Home,0.996,0.1245,8,2,0.25,Luton,Crystal Palace,Luton
+22020,Away,0.767,0.095875,8,1,0.125,Manchester City,Liverpool,Liverpool
+22020,Home,1.796,0.11225,16,1,0.0625,Manchester City,Liverpool,Manchester City
+22021,Away,0.969,0.138428571,7,1,0.142857143,Newcastle United,Chelsea,Chelsea
+22021,Home,2.152,0.153714286,14,4,0.285714286,Newcastle United,Chelsea,Newcastle United
+22022,Away,1.22,0.110909091,11,3,0.272727273,Nottingham Forest,Brighton,Brighton
+22022,Home,2.226,0.123666667,18,2,0.111111111,Nottingham Forest,Brighton,Nottingham Forest
+22023,Away,3.182,0.138347826,23,3,0.130434783,Sheffield United,Bournemouth,Bournemouth
+22023,Home,0.823,0.0823,10,1,0.1,Sheffield United,Bournemouth,Sheffield United
+22024,Away,2.398,0.159866667,15,2,0.133333333,Tottenham,Aston Villa,Aston Villa
+22024,Home,2.248,0.124888889,18,1,0.055555556,Tottenham,Aston Villa,Tottenham
+22025,Away,0.896,0.081454545,11,2,0.181818182,Bournemouth,Aston Villa,Aston Villa
+22025,Home,2.548,0.169866667,15,2,0.133333333,Bournemouth,Aston Villa,Bournemouth
+22026,Away,1.079,0.179833333,6,1,0.166666667,Arsenal,Wolverhampton Wanderers,Wolverhampton Wanderers
+22026,Home,3.333,0.175421053,19,2,0.105263158,Arsenal,Wolverhampton Wanderers,Arsenal
+22027,Away,0.227,0.032428571,7,1,0.142857143,Brentford,Luton,Luton
+22027,Home,3.426,0.126888889,27,3,0.111111111,Brentford,Luton,Brentford
+22028,Away,0.618,0.103,6,0,0,Burnley,Sheffield United,Sheffield United
+22028,Home,2.659,0.139947368,19,5,0.263157895,Burnley,Sheffield United,Burnley
+22029,Away,0.855,0.0475,18,2,0.111111111,Chelsea,Brighton,Brighton
+22029,Home,1.664,0.208,8,3,0.375,Chelsea,Brighton,Chelsea
+22030,Away,1.509,0.1509,10,3,0.3,Liverpool,Fulham,Fulham
+22030,Home,2.803,0.107807692,26,3,0.115384615,Liverpool,Fulham,Liverpool
+22031,Away,0.433,0.048111111,9,3,0.333333333,Manchester City,Tottenham,Tottenham
+22031,Home,2.907,0.1615,18,2,0.111111111,Manchester City,Tottenham,Manchester City
+22032,Away,0.424,0.053,8,0,0,Newcastle United,Manchester United,Manchester United
+22032,Home,2.919,0.132681818,22,1,0.045454545,Newcastle United,Manchester United,Newcastle United
+22033,Away,0.625,0.052083333,12,1,0.083333333,Nottingham Forest,Everton,Everton
+22033,Home,0.685,0.052692308,13,0,0,Nottingham Forest,Everton,Nottingham Forest
+22034,Away,0.989,0.109888889,9,1,0.111111111,West Ham,Crystal Palace,Crystal Palace
+22034,Home,1.148,0.127555556,9,1,0.111111111,West Ham,Crystal Palace,West Ham
+22035,Away,1.002,0.501,2,0,0,Aston Villa,Manchester City,Manchester City
+22035,Home,2.292,0.104181818,22,1,0.045454545,Aston Villa,Manchester City,Aston Villa
+22036,Away,1.229,0.153625,8,1,0.125,Brighton,Brentford,Brentford
+22036,Home,1.543,0.085722222,18,2,0.111111111,Brighton,Brentford,Brighton
+22037,Away,1.325,0.101923077,13,0,0,Everton,Newcastle United,Newcastle United
+22037,Home,2.954,0.140666667,21,3,0.142857143,Everton,Newcastle United,Everton
+22038,Away,0.218,0.0545,4,0,0,Fulham,Nottingham Forest,Nottingham Forest
+22038,Home,3.097,0.221214286,14,5,0.357142857,Fulham,Nottingham Forest,Fulham
+22039,Away,2.594,0.112782609,23,4,0.173913043,Luton,Arsenal,Arsenal
+22039,Home,0.527,0.087833333,6,3,0.5,Luton,Arsenal,Luton
+22040,Away,1.803,0.1202,15,2,0.133333333,Sheffield United,Liverpool,Liverpool
+22040,Home,0.834,0.1668,5,0,0,Sheffield United,Liverpool,Sheffield United
+22041,Away,1.75,0.159090909,11,2,0.181818182,Tottenham,West Ham,West Ham
+22041,Home,1.617,0.070304348,23,1,0.043478261,Tottenham,West Ham,Tottenham
+22042,Away,0.804,0.067,12,0,0,Wolverhampton Wanderers,Burnley,Burnley
+22042,Home,1.119,0.159857143,7,1,0.142857143,Wolverhampton Wanderers,Burnley,Wolverhampton Wanderers
+22043,Away,1.883,0.171181818,11,2,0.181818182,Crystal Palace,Bournemouth,Bournemouth
+22043,Home,1.276,0.07975,16,0,0,Crystal Palace,Bournemouth,Crystal Palace
+22044,Away,2.368,0.182153846,13,1,0.076923077,Manchester United,Chelsea,Chelsea
+22044,Home,4.379,0.156392857,28,2,0.071428571,Manchester United,Chelsea,Manchester United
+22045,Away,1.717,0.143083333,12,0,0,Aston Villa,Arsenal,Arsenal
+22045,Home,0.629,0.0629,10,1,0.1,Aston Villa,Arsenal,Aston Villa
+22046,Away,1.19,0.198333333,6,1,0.166666667,Brighton,Burnley,Burnley
+22046,Home,2.962,0.102137931,29,1,0.034482759,Brighton,Burnley,Brighton
+22047,Away,1.375,0.098214286,14,2,0.142857143,Crystal Palace,Liverpool,Liverpool
+22047,Home,1.791,0.223875,8,1,0.125,Crystal Palace,Liverpool,Crystal Palace
+22048,Away,0.885,0.0553125,16,0,0,Everton,Chelsea,Chelsea
+22048,Home,1.312,0.145777778,9,2,0.222222222,Everton,Chelsea,Everton
+22049,Away,0.983,0.109222222,9,0,0,Fulham,West Ham,West Ham
+22049,Home,2.24,0.16,14,5,0.357142857,Fulham,West Ham,Fulham
+22050,Away,2.234,0.124111111,18,2,0.111111111,Luton,Manchester City,Manchester City
+22050,Home,0.689,0.17225,4,1,0.25,Luton,Manchester City,Luton
+22051,Away,1.975,0.1975,10,3,0.3,Manchester United,Bournemouth,Bournemouth
+22051,Home,1.127,0.05635,20,0,0,Manchester United,Bournemouth,Manchester United
+22052,Away,0.649,0.0649,10,0,0,Sheffield United,Brentford,Brentford
+22052,Home,0.842,0.093555556,9,1,0.111111111,Sheffield United,Brentford,Sheffield United
+22053,Away,1.614,0.179333333,9,1,0.111111111,Tottenham,Newcastle United,Newcastle United
+22053,Home,4.402,0.191391304,23,4,0.173913043,Tottenham,Newcastle United,Tottenham
+22054,Away,1.219,0.152375,8,1,0.125,Wolverhampton Wanderers,Nottingham Forest,Nottingham Forest
+22054,Home,1.027,0.1027,10,1,0.1,Wolverhampton Wanderers,Nottingham Forest,Wolverhampton Wanderers
+22056,Away,0.663,0.1105,6,0,0,Arsenal,Brighton,Brighton
+22056,Home,2.77,0.106538462,26,2,0.076923077,Arsenal,Brighton,Arsenal
+22057,Away,1.466,0.097733333,15,2,0.133333333,Brentford,Aston Villa,Aston Villa
+22057,Home,0.797,0.19925,4,1,0.25,Brentford,Aston Villa,Brentford
+22058,Away,2.366,0.262888889,9,2,0.222222222,Burnley,Everton,Everton
+22058,Home,0.81,0.057857143,14,0,0,Burnley,Everton,Burnley
+22059,Away,0.441,0.0735,6,0,0,Chelsea,Sheffield United,Sheffield United
+22059,Home,3.297,0.2198,15,2,0.133333333,Chelsea,Sheffield United,Chelsea
+22060,Away,0.672,0.112,6,0,0,Liverpool,Manchester United,Manchester United
+22060,Home,1.967,0.057852941,34,0,0,Liverpool,Manchester United,Liverpool
+22061,Away,1.649,0.3298,5,2,0.4,Manchester City,Crystal Palace,Crystal Palace
+22061,Home,2.415,0.127105263,19,2,0.105263158,Manchester City,Crystal Palace,Manchester City
+22062,Away,0.472,0.078666667,6,0,0,Newcastle United,Fulham,Fulham
+22062,Home,4.841,0.179296296,27,3,0.111111111,Newcastle United,Fulham,Newcastle United
+22063,Away,1.625,0.135416667,12,2,0.166666667,Nottingham Forest,Tottenham,Tottenham
+22063,Home,1.706,0.113733333,15,0,0,Nottingham Forest,Tottenham,Nottingham Forest
+22064,Away,0.558,0.039857143,14,0,0,West Ham,Wolverhampton Wanderers,Wolverhampton Wanderers
+22064,Home,1.038,0.079846154,13,3,0.230769231,West Ham,Wolverhampton Wanderers,West Ham
+22065,Away,0.646,0.1292,5,1,0.2,Aston Villa,Sheffield United,Sheffield United
+22065,Home,1.22,0.110909091,11,1,0.090909091,Aston Villa,Sheffield United,Aston Villa
+22066,Away,1.341,0.0745,18,1,0.055555556,Crystal Palace,Brighton,Brighton
+22066,Home,1.657,0.150636364,11,1,0.090909091,Crystal Palace,Brighton,Crystal Palace
+22067,Away,0.419,0.059857143,7,2,0.285714286,Fulham,Burnley,Burnley
+22067,Home,1.389,0.073105263,19,0,0,Fulham,Burnley,Fulham
+22068,Away,0.851,0.065461538,13,1,0.076923077,Liverpool,Arsenal,Arsenal
+22068,Home,0.983,0.075615385,13,1,0.076923077,Liverpool,Arsenal,Liverpool
+22069,Away,1.429,0.095266667,15,0,0,Luton,Newcastle United,Newcastle United
+22069,Home,1.858,0.116125,16,1,0.0625,Luton,Newcastle United,Luton
+22070,Away,1.89,0.105,18,3,0.166666667,Nottingham Forest,Bournemouth,Bournemouth
+22070,Home,0.794,0.072181818,11,2,0.181818182,Nottingham Forest,Bournemouth,Nottingham Forest
+22071,Away,1.987,0.110388889,18,1,0.055555556,Tottenham,Everton,Everton
+22071,Home,1.58,0.121538462,13,2,0.153846154,Tottenham,Everton,Tottenham
+22072,Away,0.733,0.066636364,11,0,0,West Ham,Manchester United,Manchester United
+22072,Home,1.518,0.1265,12,2,0.166666667,West Ham,Manchester United,West Ham
+22073,Away,1.766,0.110375,16,1,0.0625,Wolverhampton Wanderers,Chelsea,Chelsea
+22073,Home,1.765,0.126071429,14,2,0.142857143,Wolverhampton Wanderers,Chelsea,Wolverhampton Wanderers
+22074,Away,0.504,0.084,6,0,0,Manchester City,Brentford,Brentford
+22074,Home,2.538,0.10152,25,1,0.04,Manchester City,Brentford,Manchester City
+22075,Away,0.325,0.040625,8,0,0,Bournemouth,Fulham,Fulham
+22075,Home,2.08,0.13,16,3,0.1875,Bournemouth,Fulham,Bournemouth
+22076,Away,1.597,0.266166667,6,2,0.333333333,Arsenal,West Ham,West Ham
+22076,Home,2.922,0.0974,30,0,0,Arsenal,West Ham,Arsenal
+22077,Away,1.896,0.172363636,11,4,0.363636364,Brentford,Wolverhampton Wanderers,Wolverhampton Wanderers
+22077,Home,2.601,0.185785714,14,1,0.071428571,Brentford,Wolverhampton Wanderers,Brentford
+22078,Away,2.074,0.109157895,19,2,0.105263158,Brighton,Tottenham,Tottenham
+22078,Home,3.953,0.263533333,15,4,0.266666667,Brighton,Tottenham,Brighton
+22079,Away,1.685,0.088684211,19,2,0.105263158,Burnley,Liverpool,Liverpool
+22079,Home,0.976,0.108444444,9,0,0,Burnley,Liverpool,Burnley
+22080,Away,0.962,0.074,13,1,0.076923077,Chelsea,Crystal Palace,Crystal Palace
+22080,Home,2.731,0.303444444,9,2,0.222222222,Chelsea,Crystal Palace,Chelsea
+22081,Away,2.295,0.099782609,23,3,0.130434783,Everton,Manchester City,Manchester City
+22081,Home,1.235,0.176428571,7,1,0.142857143,Everton,Manchester City,Everton
+22082,Away,1.836,0.1836,10,2,0.2,Manchester United,Aston Villa,Aston Villa
+22082,Home,1.201,0.092384615,13,3,0.230769231,Manchester United,Aston Villa,Manchester United
+22083,Away,3.107,0.207133333,15,3,0.2,Newcastle United,Nottingham Forest,Nottingham Forest
+22083,Home,2.95,0.155263158,19,1,0.052631579,Newcastle United,Nottingham Forest,Newcastle United
+22084,Away,0.715,0.059583333,12,1,0.083333333,Sheffield United,Luton,Luton
+22084,Home,4.195,0.182391304,23,2,0.086956522,Sheffield United,Luton,Sheffield United
+22085,Away,1.122,0.124666667,9,2,0.222222222,Aston Villa,Burnley,Burnley
+22085,Home,2.932,0.154315789,19,3,0.157894737,Aston Villa,Burnley,Aston Villa
+22086,Away,1.286,0.142888889,9,1,0.111111111,Crystal Palace,Brentford,Brentford
+22086,Home,1.61,0.123846154,13,3,0.230769231,Crystal Palace,Brentford,Crystal Palace
+22087,Away,1.729,0.133,13,1,0.076923077,Fulham,Arsenal,Arsenal
+22087,Home,1.539,0.1026,15,2,0.133333333,Fulham,Arsenal,Fulham
+22088,Away,0.912,0.1824,5,2,0.4,Liverpool,Newcastle United,Newcastle United
+22088,Home,7.141,0.210029412,34,4,0.117647059,Liverpool,Newcastle United,Liverpool
+22089,Away,1.576,0.131333333,12,3,0.25,Luton,Chelsea,Chelsea
+22089,Home,2.734,0.182266667,15,2,0.133333333,Luton,Chelsea,Luton
+22090,Away,0.264,0.066,4,0,0,Manchester City,Sheffield United,Sheffield United
+22090,Home,2.242,0.124555556,18,2,0.111111111,Manchester City,Sheffield United,Manchester City
+22091,Away,0.656,0.0656,10,1,0.1,Nottingham Forest,Manchester United,Manchester United
+22091,Home,0.746,0.09325,8,2,0.25,Nottingham Forest,Manchester United,Nottingham Forest
+22092,Away,1.583,0.065958333,24,1,0.041666667,Tottenham,Bournemouth,Bournemouth
+22092,Home,2.156,0.179666667,12,3,0.25,Tottenham,Bournemouth,Tottenham
+22093,Away,2.213,0.100590909,22,0,0,West Ham,Brighton,Brighton
+22093,Home,0.983,0.163833333,6,0,0,West Ham,Brighton,West Ham
+22094,Away,0.532,0.0532,10,0,0,Wolverhampton Wanderers,Everton,Everton
+22094,Home,2.645,0.220416667,12,3,0.25,Wolverhampton Wanderers,Everton,Wolverhampton Wanderers
+22095,Away,1.23,0.15375,8,0,0,Brighton,Wolverhampton Wanderers,Wolverhampton Wanderers
+22095,Home,1.4,0.127272727,11,0,0,Brighton,Wolverhampton Wanderers,Brighton
+22096,Away,0.965,0.068928571,14,1,0.071428571,Burnley,Luton,Luton
+22096,Home,1.52,0.116923077,13,1,0.076923077,Burnley,Luton,Burnley
+22097,Away,0.704,0.050285714,14,0,0,Chelsea,Fulham,Fulham
+22097,Home,2.073,0.121941176,17,1,0.058823529,Chelsea,Fulham,Chelsea
+22098,Away,1.341,0.0838125,16,0,0,Everton,Aston Villa,Aston Villa
+22098,Home,1.035,0.1035,10,0,0,Everton,Aston Villa,Everton
+22099,Away,1.313,0.0820625,16,2,0.125,Manchester United,Tottenham,Tottenham
+22099,Home,0.923,0.102555556,9,2,0.222222222,Manchester United,Tottenham,Manchester United
+22100,Away,2.555,0.09462963,27,3,0.111111111,Newcastle United,Manchester City,Manchester City
+22100,Home,1.238,0.103166667,12,2,0.166666667,Newcastle United,Manchester City,Newcastle United
+22101,Away,2.48,0.155,16,2,0.125,Sheffield United,West Ham,West Ham
+22101,Home,2.748,0.130857143,21,2,0.095238095,Sheffield United,West Ham,Sheffield United
+22102,Away,1.535,0.109642857,14,4,0.285714286,Bournemouth,Liverpool,Liverpool
+22102,Home,0.834,0.075818182,11,0,0,Bournemouth,Liverpool,Bournemouth
+22103,Away,0.287,0.022076923,13,0,0,Arsenal,Crystal Palace,Crystal Palace
+22103,Home,3.522,0.167714286,21,4,0.19047619,Arsenal,Crystal Palace,Arsenal
+22104,Away,1.225,0.102083333,12,2,0.166666667,Brentford,Nottingham Forest,Nottingham Forest
+22104,Home,1.943,0.176636364,11,3,0.272727273,Brentford,Nottingham Forest,Brentford
+22105,Away,3.347,0.239071429,14,2,0.142857143,Aston Villa,Newcastle United,Newcastle United
+22105,Home,1.446,0.111230769,13,1,0.076923077,Aston Villa,Newcastle United,Aston Villa
+22106,Away,2.871,0.136714286,21,0,0,Fulham,Everton,Everton
+22106,Home,2.406,0.09624,25,0,0,Fulham,Everton,Fulham
+22107,Away,1.106,0.122888889,9,0,0,Luton,Brighton,Brighton
+22107,Home,3.71,0.206111111,18,4,0.222222222,Luton,Brighton,Luton
+22108,Away,1.39,0.073157895,19,2,0.105263158,Nottingham Forest,Arsenal,Arsenal
+22108,Home,0.631,0.070111111,9,1,0.111111111,Nottingham Forest,Arsenal,Nottingham Forest
+22109,Away,1.646,0.1646,10,2,0.2,Tottenham,Brentford,Brentford
+22109,Home,3.496,0.184,19,3,0.157894737,Tottenham,Brentford,Tottenham
+22110,Away,1.135,0.126111111,9,1,0.111111111,West Ham,Bournemouth,Bournemouth
+22110,Home,1.312,0.145777778,9,1,0.111111111,West Ham,Bournemouth,West Ham
+22111,Away,3.229,0.153761905,21,4,0.19047619,Wolverhampton Wanderers,Manchester United,Manchester United
+22111,Home,2.323,0.1451875,16,3,0.1875,Wolverhampton Wanderers,Manchester United,Wolverhampton Wanderers
+22112,Away,0.781,0.086777778,9,2,0.222222222,Crystal Palace,Sheffield United,Sheffield United
+22112,Home,1.161,0.09675,12,3,0.25,Crystal Palace,Sheffield United,Crystal Palace
+22113,Away,0.478,0.1195,4,1,0.25,Liverpool,Chelsea,Chelsea
+22113,Home,3.663,0.130821429,28,4,0.142857143,Liverpool,Chelsea,Liverpool
+22114,Away,1.492,0.1865,8,1,0.125,Manchester City,Burnley,Burnley
+22114,Home,1.846,0.131857143,14,3,0.214285714,Manchester City,Burnley,Manchester City
+22115,Away,0.457,0.057125,8,1,0.125,Bournemouth,Nottingham Forest,Nottingham Forest
+22115,Home,1.19,0.132222222,9,1,0.111111111,Bournemouth,Nottingham Forest,Bournemouth
+22116,Away,0.543,0.0543,10,0,0,Arsenal,Liverpool,Liverpool
+22116,Home,2.986,0.186625,16,3,0.1875,Arsenal,Liverpool,Arsenal
+22117,Away,2.107,0.08428,25,3,0.12,Brentford,Manchester City,Manchester City
+22117,Home,0.867,0.096333333,9,1,0.111111111,Brentford,Manchester City,Brentford
+22118,Away,0.24,0.034285714,7,1,0.142857143,Brighton,Crystal Palace,Crystal Palace
+22118,Home,1.93,0.148461538,13,4,0.307692308,Brighton,Crystal Palace,Brighton
+22119,Away,1.29,0.086,15,2,0.133333333,Burnley,Fulham,Fulham
+22119,Home,1.01,0.084166667,12,2,0.166666667,Burnley,Fulham,Burnley
+22120,Away,2.491,0.177928571,14,3,0.214285714,Chelsea,Wolverhampton Wanderers,Wolverhampton Wanderers
+22120,Home,2.36,0.1475,16,2,0.125,Chelsea,Wolverhampton Wanderers,Chelsea
+22121,Away,0.922,0.102444444,9,2,0.222222222,Everton,Tottenham,Tottenham
+22121,Home,3.26,0.232857143,14,2,0.142857143,Everton,Tottenham,Everton
+22122,Away,1.191,0.054136364,22,0,0,Manchester United,West Ham,West Ham
+22122,Home,0.973,0.081083333,12,3,0.25,Manchester United,West Ham,Manchester United
+22123,Away,2.702,0.245636364,11,4,0.363636364,Newcastle United,Luton,Luton
+22123,Home,2.43,0.127894737,19,4,0.210526316,Newcastle United,Luton,Newcastle United
+22124,Away,3.214,0.229571429,14,5,0.357142857,Sheffield United,Aston Villa,Aston Villa
+22124,Home,1.885,0.1885,10,0,0,Sheffield United,Aston Villa,Sheffield United
+22125,Away,2.446,0.143882353,17,2,0.117647059,Aston Villa,Manchester United,Manchester United
+22125,Home,3.064,0.133217391,23,1,0.043478261,Aston Villa,Manchester United,Aston Villa
+22126,Away,1.27,0.090714286,14,3,0.214285714,Crystal Palace,Chelsea,Chelsea
+22126,Home,0.721,0.055461538,13,1,0.076923077,Crystal Palace,Chelsea,Crystal Palace
+22127,Away,2.607,0.10428,25,1,0.04,Fulham,Bournemouth,Bournemouth
+22127,Home,1.745,0.249285714,7,3,0.428571429,Fulham,Bournemouth,Fulham
+22128,Away,1.134,0.126,9,1,0.111111111,Liverpool,Burnley,Burnley
+22128,Home,3.147,0.12588,25,3,0.12,Liverpool,Burnley,Liverpool
+22129,Away,1.984,0.283428571,7,3,0.428571429,Luton,Sheffield United,Sheffield United
+22129,Home,1.767,0.08835,20,1,0.05,Luton,Sheffield United,Luton
+22130,Away,0.192,0.0384,5,0,0,Manchester City,Everton,Everton
+22130,Home,1.597,0.084052632,19,2,0.105263158,Manchester City,Everton,Manchester City
+22131,Away,0.512,0.073142857,7,3,0.428571429,Nottingham Forest,Newcastle United,Newcastle United
+22131,Home,0.968,0.074461538,13,2,0.153846154,Nottingham Forest,Newcastle United,Nottingham Forest
+22132,Away,1.493,0.248833333,6,1,0.166666667,Tottenham,Brighton,Brighton
+22132,Home,2.116,0.13225,16,2,0.125,Tottenham,Brighton,Tottenham
+22133,Away,3.999,0.15996,25,6,0.24,West Ham,Arsenal,Arsenal
+22133,Home,0.196,0.0392,5,0,0,West Ham,Arsenal,West Ham
+22134,Away,1.849,0.205444444,9,2,0.222222222,Wolverhampton Wanderers,Brentford,Brentford
+22134,Home,1.06,0.062352941,17,0,0,Wolverhampton Wanderers,Brentford,Wolverhampton Wanderers
+22135,Away,3.166,0.211066667,15,4,0.266666667,Brentford,Liverpool,Liverpool
+22135,Home,1.939,0.129266667,15,1,0.066666667,Brentford,Liverpool,Brentford
+22136,Away,2.216,0.1385,16,5,0.3125,Burnley,Arsenal,Arsenal
+22136,Home,0.334,0.04175,8,0,0,Burnley,Arsenal,Burnley
+22137,Away,0.737,0.0737,10,1,0.1,Everton,Crystal Palace,Crystal Palace
+22137,Home,2.64,0.138947368,19,1,0.052631579,Everton,Crystal Palace,Everton
+22138,Away,1.572,0.131,12,2,0.166666667,Fulham,Aston Villa,Aston Villa
+22138,Home,1.42,0.094666667,15,1,0.066666667,Fulham,Aston Villa,Fulham
+22139,Away,3.613,0.172047619,21,2,0.095238095,Luton,Manchester United,Manchester United
+22139,Home,1.608,0.073090909,22,1,0.045454545,Luton,Manchester United,Luton
+22140,Away,1.837,0.204111111,9,1,0.111111111,Manchester City,Chelsea,Chelsea
+22140,Home,2.78,0.086875,32,1,0.03125,Manchester City,Chelsea,Manchester City
+22141,Away,2.08,0.173333333,12,2,0.166666667,Newcastle United,Bournemouth,Bournemouth
+22141,Home,2.386,0.140352941,17,2,0.117647059,Newcastle United,Bournemouth,Newcastle United
+22142,Away,0.519,0.0519,10,0,0,Nottingham Forest,West Ham,West Ham
+22142,Home,2.678,0.140947368,19,2,0.105263158,Nottingham Forest,West Ham,Nottingham Forest
+22143,Away,3.615,0.150625,24,4,0.166666667,Sheffield United,Brighton,Brighton
+22143,Home,0.587,0.083857143,7,0,0,Sheffield United,Brighton,Sheffield United
+22144,Away,1.791,0.14925,12,2,0.166666667,Tottenham,Wolverhampton Wanderers,Wolverhampton Wanderers
+22144,Home,1.602,0.1068,15,1,0.066666667,Tottenham,Wolverhampton Wanderers,Tottenham
+22145,Away,1.989,0.1326,15,1,0.066666667,Bournemouth,Manchester City,Manchester City
+22145,Home,0.928,0.071384615,13,0,0,Bournemouth,Manchester City,Bournemouth
+22146,Away,0.218,0.0545,4,1,0.25,Arsenal,Newcastle United,Newcastle United
+22146,Home,2.595,0.144166667,18,3,0.166666667,Arsenal,Newcastle United,Arsenal
+22147,Away,2.255,0.2255,10,2,0.2,Aston Villa,Nottingham Forest,Nottingham Forest
+22147,Home,3.739,0.2336875,16,4,0.25,Aston Villa,Nottingham Forest,Aston Villa
+22148,Away,0.287,0.047833333,6,1,0.166666667,Brighton,Everton,Everton
+22148,Home,1.662,0.07226087,23,1,0.043478261,Brighton,Everton,Brighton
+22149,Away,1.273,0.067,19,0,0,Chelsea,Tottenham,Tottenham
+22149,Home,2.453,0.1533125,16,2,0.125,Chelsea,Tottenham,Chelsea
+22150,Away,0.076,0.038,2,0,0,Crystal Palace,Burnley,Burnley
+22150,Home,2.414,0.160933333,15,3,0.2,Crystal Palace,Burnley,Crystal Palace
+22151,Away,0.979,0.081583333,12,1,0.083333333,Liverpool,Luton,Luton
+22151,Home,3.703,0.127689655,29,4,0.137931034,Liverpool,Luton,Liverpool
+22152,Away,1.143,0.067235294,17,2,0.117647059,Manchester United,Fulham,Fulham
+22152,Home,1.981,0.094333333,21,1,0.047619048,Manchester United,Fulham,Manchester United
+22153,Away,1.36,0.097142857,14,2,0.142857143,West Ham,Brentford,Brentford
+22153,Home,2.097,0.123352941,17,4,0.235294118,West Ham,Brentford,West Ham
+22154,Away,0.656,0.054666667,12,0,0,Wolverhampton Wanderers,Sheffield United,Sheffield United
+22154,Home,1.215,0.093461538,13,1,0.076923077,Wolverhampton Wanderers,Sheffield United,Wolverhampton Wanderers
+22155,Away,2.153,0.126647059,17,2,0.117647059,Brentford,Chelsea,Chelsea
+22155,Home,2.54,0.181428571,14,2,0.142857143,Brentford,Chelsea,Brentford
+22156,Away,1.438,0.1438,10,2,0.2,Burnley,Bournemouth,Bournemouth
+22156,Home,1.618,0.0809,20,0,0,Burnley,Bournemouth,Burnley
+22157,Away,2.18,0.181666667,12,3,0.25,Everton,West Ham,West Ham
+22157,Home,3.123,0.141954545,22,1,0.045454545,Everton,West Ham,Everton
+22158,Away,1.151,0.076733333,15,0,0,Fulham,Brighton,Brighton
+22158,Home,1.376,0.114666667,12,3,0.25,Fulham,Brighton,Fulham
+22159,Away,2.085,0.17375,12,3,0.25,Luton,Aston Villa,Aston Villa
+22159,Home,2.934,0.225692308,13,2,0.153846154,Luton,Aston Villa,Luton
+22160,Away,0.154,0.077,2,1,0.5,Manchester City,Manchester United,Manchester United
+22160,Home,2.644,0.097925926,27,3,0.111111111,Manchester City,Manchester United,Manchester City
+22161,Away,0.509,0.042416667,12,0,0,Newcastle United,Wolverhampton Wanderers,Wolverhampton Wanderers
+22161,Home,3.417,0.244071429,14,3,0.214285714,Newcastle United,Wolverhampton Wanderers,Newcastle United
+22162,Away,1.331,0.0605,22,1,0.045454545,Nottingham Forest,Liverpool,Liverpool
+22162,Home,0.971,0.121375,8,0,0,Nottingham Forest,Liverpool,Nottingham Forest
+22163,Away,2.488,0.113090909,22,5,0.227272727,Sheffield United,Arsenal,Arsenal
+22163,Home,0.202,0.0404,5,0,0,Sheffield United,Arsenal,Sheffield United
+22164,Away,0.282,0.0705,4,1,0.25,Tottenham,Crystal Palace,Crystal Palace
+22164,Home,2.706,0.193285714,14,3,0.214285714,Tottenham,Crystal Palace,Tottenham
+22165,Away,1.966,0.151230769,13,2,0.153846154,Bournemouth,Sheffield United,Sheffield United
+22165,Home,3.929,0.12278125,32,2,0.0625,Bournemouth,Sheffield United,Bournemouth
+22166,Away,0.734,0.081555556,9,1,0.111111111,Arsenal,Brentford,Brentford
+22166,Home,1.592,0.093647059,17,2,0.117647059,Arsenal,Brentford,Arsenal
+22167,Away,2.254,0.250444444,9,4,0.444444444,Aston Villa,Tottenham,Tottenham
+22167,Home,1.257,0.1257,10,0,0,Aston Villa,Tottenham,Aston Villa
+22168,Away,0.686,0.0686,10,0,0,Brighton,Nottingham Forest,Nottingham Forest
+22168,Home,0.539,0.0539,10,0,0,Brighton,Nottingham Forest,Brighton
+22169,Away,0.569,0.051727273,11,2,0.181818182,Chelsea,Newcastle United,Newcastle United
+22169,Home,1.788,0.149,12,3,0.25,Chelsea,Newcastle United,Chelsea
+22170,Away,1.086,0.13575,8,1,0.125,Crystal Palace,Luton,Luton
+22170,Home,3.338,0.158952381,21,1,0.047619048,Crystal Palace,Luton,Crystal Palace
+22171,Away,1.374,0.1374,10,1,0.1,Liverpool,Manchester City,Manchester City
+22171,Home,2.256,0.118736842,19,1,0.052631579,Liverpool,Manchester City,Liverpool
+22172,Away,1.823,0.07926087,23,0,0,Manchester United,Everton,Everton
+22172,Home,2.902,0.193466667,15,2,0.133333333,Manchester United,Everton,Manchester United
+22173,Away,0.882,0.080181818,11,1,0.090909091,West Ham,Burnley,Burnley
+22173,Home,1.876,0.081565217,23,2,0.086956522,West Ham,Burnley,West Ham
+22174,Away,2.972,0.123833333,24,1,0.041666667,Wolverhampton Wanderers,Fulham,Fulham
+22174,Home,1.297,0.162125,8,1,0.125,Wolverhampton Wanderers,Fulham,Wolverhampton Wanderers
+22175,Away,1.604,0.229142857,7,0,0,Arsenal,Chelsea,Chelsea
+22175,Home,3.461,0.128185185,27,5,0.185185185,Arsenal,Chelsea,Arsenal
+22176,Away,1.908,0.136285714,14,4,0.285714286,Brighton,Manchester City,Manchester City
+22176,Home,0.572,0.081714286,7,0,0,Brighton,Manchester City,Brighton
+22177,Away,1.252,0.139111111,9,1,0.111111111,Burnley,Brentford,Brentford
+22177,Home,2.697,0.158647059,17,2,0.117647059,Burnley,Brentford,Burnley
+22178,Away,0.551,0.078714286,7,0,0,Crystal Palace,Newcastle United,Newcastle United
+22178,Home,1.437,0.07185,20,2,0.1,Crystal Palace,Newcastle United,Crystal Palace
+22179,Away,1.874,0.081478261,23,0,0,Everton,Liverpool,Liverpool
+22179,Home,1.941,0.1213125,16,2,0.125,Everton,Liverpool,Everton
+22180,Away,2.146,0.153285714,14,0,0,Fulham,Tottenham,Tottenham
+22180,Home,2.614,0.163375,16,3,0.1875,Fulham,Tottenham,Fulham
+22181,Away,1.953,0.1220625,16,1,0.0625,Luton,Nottingham Forest,Nottingham Forest
+22181,Home,0.855,0.0855,10,1,0.1,Luton,Nottingham Forest,Luton
+22182,Away,1.208,0.1208,10,2,0.2,Manchester United,Sheffield United,Sheffield United
+22182,Home,3.518,0.14072,25,4,0.16,Manchester United,Sheffield United,Manchester United
+22183,Away,0.911,0.070076923,13,1,0.076923077,West Ham,Aston Villa,Aston Villa
+22183,Home,1.342,0.103230769,13,1,0.076923077,West Ham,Aston Villa,West Ham
+22184,Away,2.416,0.115047619,21,1,0.047619048,Wolverhampton Wanderers,Bournemouth,Bournemouth
+22184,Home,0.485,0.032333333,15,0,0,Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers
+22185,Away,0.934,0.11675,8,1,0.125,Bournemouth,Everton,Everton
+22185,Home,1.404,0.127636364,11,1,0.090909091,Bournemouth,Everton,Bournemouth
+22186,Away,1.663,0.127923077,13,0,0,Aston Villa,Wolverhampton Wanderers,Wolverhampton Wanderers
+22186,Home,1.284,0.116727273,11,2,0.181818182,Aston Villa,Wolverhampton Wanderers,Aston Villa
+22187,Away,0.991,0.090090909,11,1,0.090909091,Brentford,Manchester United,Manchester United
+22187,Home,3.196,0.103096774,31,1,0.032258065,Brentford,Manchester United,Brentford
+22188,Away,2.381,0.132277778,18,2,0.111111111,Chelsea,Burnley,Burnley
+22188,Home,4.465,0.13530303,33,2,0.060606061,Chelsea,Burnley,Chelsea
+22189,Away,0.44,0.048888889,9,1,0.111111111,Liverpool,Brighton,Brighton
+22189,Home,3.214,0.107133333,30,2,0.066666667,Liverpool,Brighton,Liverpool
+22190,Away,0.512,0.085333333,6,0,0,Manchester City,Arsenal,Arsenal
+22190,Home,1.219,0.101583333,12,0,0,Manchester City,Arsenal,Manchester City
+22191,Away,0.995,0.110555556,9,3,0.333333333,Newcastle United,West Ham,West Ham
+22191,Home,3.82,0.159166667,24,4,0.166666667,Newcastle United,West Ham,Newcastle United
+22192,Away,0.9,0.09,10,1,0.1,Nottingham Forest,Crystal Palace,Crystal Palace
+22192,Home,0.785,0.065416667,12,1,0.083333333,Nottingham Forest,Crystal Palace,Nottingham Forest
+22193,Away,1.12,0.046666667,24,3,0.125,Sheffield United,Fulham,Fulham
+22193,Home,1.787,0.223375,8,3,0.375,Sheffield United,Fulham,Sheffield United
+22194,Away,0.403,0.050375,8,1,0.125,Tottenham,Luton,Luton
+22194,Home,2.538,0.149294118,17,1,0.058823529,Tottenham,Luton,Tottenham
+22195,Away,0.175,0.058333333,3,0,0,Bournemouth,Crystal Palace,Crystal Palace
+22195,Home,1.311,0.119181818,11,1,0.090909091,Bournemouth,Crystal Palace,Bournemouth
+22196,Away,0.291,0.0485,6,0,0,Arsenal,Luton,Luton
+22196,Home,1.194,0.091846154,13,1,0.076923077,Arsenal,Luton,Arsenal
+22197,Away,1.01,0.12625,8,1,0.125,Burnley,Wolverhampton Wanderers,Wolverhampton Wanderers
+22197,Home,1.127,0.086692308,13,1,0.076923077,Burnley,Wolverhampton Wanderers,Burnley
+22198,Away,1.054,0.062,17,1,0.058823529,Nottingham Forest,Fulham,Fulham
+22198,Home,1.947,0.1216875,16,3,0.1875,Nottingham Forest,Fulham,Nottingham Forest
+22199,Away,1.395,0.107307692,13,1,0.076923077,West Ham,Tottenham,Tottenham
+22199,Home,1.469,0.133545455,11,1,0.090909091,West Ham,Tottenham,West Ham
+22200,Away,1.236,0.0515,24,0,0,Brentford,Brighton,Brighton
+22200,Home,0.423,0.0846,5,0,0,Brentford,Brighton,Brentford
+22201,Away,1.569,0.082578947,19,3,0.157894737,Chelsea,Manchester United,Manchester United
+22201,Home,3.483,0.124392857,28,4,0.142857143,Chelsea,Manchester United,Chelsea
+22202,Away,1.698,0.1698,10,1,0.1,Newcastle United,Everton,Everton
+22202,Home,2.696,0.158588235,17,1,0.058823529,Newcastle United,Everton,Newcastle United
+22203,Away,0.721,0.1442,5,0,0,Liverpool,Sheffield United,Sheffield United
+22203,Home,2.519,0.083966667,30,3,0.1,Liverpool,Sheffield United,Liverpool
+22204,Away,1.186,0.14825,8,1,0.125,Manchester City,Aston Villa,Aston Villa
+22204,Home,3.949,0.15796,25,4,0.16,Manchester City,Aston Villa,Manchester City
+22205,Away,1.445,0.180625,8,3,0.375,Aston Villa,Brentford,Brentford
+22205,Home,1.169,0.106272727,11,3,0.272727273,Aston Villa,Brentford,Aston Villa
+22206,Away,4.166,0.2083,20,3,0.15,Brighton,Arsenal,Arsenal
+22206,Home,0.429,0.0429,10,0,0,Brighton,Arsenal,Brighton
+22207,Away,2.264,0.125777778,18,4,0.222222222,Crystal Palace,Manchester City,Manchester City
+22207,Home,1.494,0.213428571,7,2,0.285714286,Crystal Palace,Manchester City,Crystal Palace
+22208,Away,0.35,0.058333333,6,0,0,Everton,Burnley,Burnley
+22208,Home,0.66,0.055,12,1,0.083333333,Everton,Burnley,Everton
+22209,Away,1.208,0.100666667,12,1,0.083333333,Fulham,Newcastle United,Newcastle United
+22209,Home,0.839,0.059928571,14,0,0,Fulham,Newcastle United,Fulham
+22210,Away,0.616,0.077,8,1,0.125,Luton,Bournemouth,Bournemouth
+22210,Home,1.307,0.068789474,19,2,0.105263158,Luton,Bournemouth,Luton
+22211,Away,4.457,0.159178571,28,2,0.071428571,Manchester United,Liverpool,Liverpool
+22211,Home,0.814,0.090444444,9,2,0.222222222,Manchester United,Liverpool,Manchester United
+22212,Away,0.523,0.087166667,6,2,0.333333333,Sheffield United,Chelsea,Chelsea
+22212,Home,1.744,0.158545455,11,2,0.181818182,Sheffield United,Chelsea,Sheffield United
+22213,Away,2.061,0.147214286,14,1,0.071428571,Tottenham,Nottingham Forest,Nottingham Forest
+22213,Home,1.619,0.095235294,17,2,0.117647059,Tottenham,Nottingham Forest,Tottenham
+22214,Away,1.141,0.103727273,11,2,0.181818182,Wolverhampton Wanderers,West Ham,West Ham
+22214,Home,1.785,0.1275,14,1,0.071428571,Wolverhampton Wanderers,West Ham,Wolverhampton Wanderers
+22215,Away,1.524,0.1905,8,2,0.25,Bournemouth,Manchester United,Manchester United
+22215,Home,2.623,0.13115,20,2,0.1,Bournemouth,Manchester United,Bournemouth
+22216,Away,0.93,0.084545455,11,2,0.181818182,Arsenal,Aston Villa,Aston Villa
+22216,Home,1.988,0.110444444,18,0,0,Arsenal,Aston Villa,Arsenal
+22217,Away,0.834,0.092666667,9,0,0,Brentford,Sheffield United,Sheffield United
+22217,Home,1.091,0.121222222,9,1,0.111111111,Brentford,Sheffield United,Brentford
+22218,Away,0.898,0.0449,20,0,0,Burnley,Brighton,Brighton
+22218,Home,1.853,0.154416667,12,1,0.083333333,Burnley,Brighton,Burnley
+22219,Away,1.218,0.1218,10,0,0,Chelsea,Everton,Everton
+22219,Home,3.864,0.276,14,6,0.428571429,Chelsea,Everton,Chelsea
+22220,Away,2.129,0.266125,8,1,0.125,Liverpool,Crystal Palace,Crystal Palace
+22220,Home,3.055,0.14547619,21,0,0,Liverpool,Crystal Palace,Liverpool
+22221,Away,0.81,0.162,5,1,0.2,Manchester City,Luton,Luton
+22221,Home,4.75,0.128378378,37,4,0.108108108,Manchester City,Luton,Manchester City
+22222,Away,0.737,0.067,11,0,0,Newcastle United,Tottenham,Tottenham
+22222,Home,3.148,0.174888889,18,4,0.222222222,Newcastle United,Tottenham,Newcastle United
+22223,Away,1.526,0.138727273,11,2,0.181818182,Nottingham Forest,Wolverhampton Wanderers,Wolverhampton Wanderers
+22223,Home,1.761,0.097833333,18,2,0.111111111,Nottingham Forest,Wolverhampton Wanderers,Nottingham Forest
+22224,Away,3.634,0.201888889,18,2,0.111111111,West Ham,Fulham,Fulham
+22224,Home,1.451,0.096733333,15,0,0,West Ham,Fulham,West Ham
+22225,Away,2.128,0.152,14,1,0.071428571,Aston Villa,Bournemouth,Bournemouth
+22225,Home,2.94,0.21,14,3,0.214285714,Aston Villa,Bournemouth,Aston Villa
+22226,Away,1.545,0.118846154,13,2,0.153846154,Brighton,Chelsea,Chelsea
+22226,Home,1.324,0.120363636,11,1,0.090909091,Brighton,Chelsea,Brighton
+22227,Away,1.346,0.2692,5,1,0.2,Crystal Palace,West Ham,West Ham
+22227,Home,3.861,0.203210526,19,4,0.210526316,Crystal Palace,West Ham,Crystal Palace
+22228,Away,1.288,0.161,8,0,0,Everton,Nottingham Forest,Nottingham Forest
+22228,Home,0.474,0.067714286,7,2,0.285714286,Everton,Nottingham Forest,Everton
+22229,Away,1.026,0.073285714,14,3,0.214285714,Fulham,Liverpool,Liverpool
+22229,Home,0.849,0.07075,12,1,0.083333333,Fulham,Liverpool,Fulham
+22230,Away,3.78,0.18,21,5,0.238095238,Luton,Brentford,Brentford
+22230,Home,0.498,0.083,6,1,0.166666667,Luton,Brentford,Luton
+22231,Away,2.283,0.108714286,21,2,0.095238095,Manchester United,Newcastle United,Newcastle United
+22231,Home,1.497,0.088058824,17,3,0.176470588,Manchester United,Newcastle United,Manchester United
+22232,Away,2.43,0.151875,16,4,0.25,Sheffield United,Burnley,Burnley
+22232,Home,1.983,0.110166667,18,1,0.055555556,Sheffield United,Burnley,Sheffield United
+22233,Away,2.703,0.337875,8,2,0.25,Tottenham,Manchester City,Manchester City
+22233,Home,1.842,0.1842,10,0,0,Tottenham,Manchester City,Tottenham
+22234,Away,1.661,0.069208333,24,2,0.083333333,Wolverhampton Wanderers,Arsenal,Arsenal
+22234,Home,0.164,0.0328,5,0,0,Wolverhampton Wanderers,Arsenal,Wolverhampton Wanderers
+22235,Away,1.361,0.104692308,13,0,0,Bournemouth,Brighton,Brighton
+22235,Home,2.586,0.1724,15,3,0.2,Bournemouth,Brighton,Bournemouth
+22236,Away,1.565,0.071136364,22,2,0.090909091,Aston Villa,Chelsea,Chelsea
+22236,Home,0.613,0.068111111,9,1,0.111111111,Aston Villa,Chelsea,Aston Villa
+22237,Away,0.958,0.0958,10,0,0,Everton,Brentford,Brentford
+22237,Home,1.213,0.067388889,18,1,0.055555556,Everton,Brentford,Everton
+22238,Away,1.054,0.075285714,14,1,0.071428571,Fulham,Crystal Palace,Crystal Palace
+22238,Home,1.394,0.154888889,9,1,0.111111111,Fulham,Crystal Palace,Fulham
+22239,Away,1.895,0.1184375,16,1,0.0625,Manchester United,Burnley,Burnley
+22239,Home,3.061,0.11337037,27,1,0.037037037,Manchester United,Burnley,Manchester United
+22240,Away,1.872,0.117,16,1,0.0625,Newcastle United,Sheffield United,Sheffield United
+22240,Home,2.934,0.1467,20,4,0.2,Newcastle United,Sheffield United,Newcastle United
+22241,Away,1.516,0.168444444,9,2,0.222222222,Tottenham,Arsenal,Arsenal
+22241,Home,2.604,0.1736,15,2,0.133333333,Tottenham,Arsenal,Tottenham
+22242,Away,0.931,0.084636364,11,2,0.181818182,Nottingham Forest,Manchester City,Manchester City
+22242,Home,2.174,0.155285714,14,0,0,Nottingham Forest,Manchester City,Nottingham Forest
+22243,Away,2.296,0.082,28,1,0.035714286,West Ham,Liverpool,Liverpool
+22243,Home,0.794,0.066166667,12,2,0.166666667,West Ham,Liverpool,West Ham
+22244,Away,0.904,0.100444444,9,1,0.111111111,Wolverhampton Wanderers,Luton,Luton
+22244,Home,1.493,0.114846154,13,2,0.153846154,Wolverhampton Wanderers,Luton,Wolverhampton Wanderers
+22245,Away,0.469,0.067,7,0,0,Arsenal,Bournemouth,Bournemouth
+22245,Home,3.925,0.163541667,24,3,0.125,Arsenal,Bournemouth,Arsenal
+22246,Away,1.454,0.096933333,15,0,0,Brentford,Fulham,Fulham
+22246,Home,0.857,0.122428571,7,0,0,Brentford,Fulham,Brentford
+22247,Away,0.064,0.032,2,0,0,Brighton,Aston Villa,Aston Villa
+22247,Home,3.021,0.2014,15,1,0.066666667,Brighton,Aston Villa,Brighton
+22248,Away,4.496,0.195478261,23,4,0.173913043,Burnley,Newcastle United,Newcastle United
+22248,Home,1.286,0.075647059,17,1,0.058823529,Burnley,Newcastle United,Burnley
+22249,Away,0.898,0.069076923,13,0,0,Chelsea,West Ham,West Ham
+22249,Home,4.27,0.1708,25,5,0.2,Chelsea,West Ham,Chelsea
+22250,Away,0.343,0.049,7,0,0,Crystal Palace,Manchester United,Manchester United
+22250,Home,2.07,0.115,18,4,0.222222222,Crystal Palace,Manchester United,Crystal Palace
+22251,Away,1.173,0.106636364,11,2,0.181818182,Liverpool,Tottenham,Tottenham
+22251,Home,3.724,0.14896,25,4,0.16,Liverpool,Tottenham,Liverpool
+22252,Away,1.229,0.1229,10,1,0.1,Luton,Everton,Everton
+22252,Home,0.953,0.052944444,18,1,0.055555556,Luton,Everton,Luton
+22253,Away,0.397,0.1985,2,1,0.5,Manchester City,Wolverhampton Wanderers,Wolverhampton Wanderers
+22253,Home,4.536,0.2268,20,5,0.25,Manchester City,Wolverhampton Wanderers,Manchester City
+22254,Away,1.94,0.129333333,15,3,0.2,Sheffield United,Nottingham Forest,Nottingham Forest
+22254,Home,2.49,0.146470588,17,1,0.058823529,Sheffield United,Nottingham Forest,Sheffield United
+22255,Away,1.928,0.175272727,11,2,0.181818182,Bournemouth,Brentford,Brentford
+22255,Home,1.071,0.082384615,13,1,0.076923077,Bournemouth,Brentford,Bournemouth
+22256,Away,1.954,0.139571429,14,2,0.142857143,Aston Villa,Liverpool,Liverpool
+22256,Home,2.719,0.13595,20,3,0.15,Aston Villa,Liverpool,Aston Villa
+22257,Away,0.466,0.035846154,13,0,0,Everton,Sheffield United,Sheffield United
+22257,Home,1.823,0.121533333,15,1,0.066666667,Everton,Sheffield United,Everton
+22258,Away,3.154,0.197125,16,4,0.25,Fulham,Manchester City,Manchester City
+22258,Home,0.089,0.089,1,0,0,Fulham,Manchester City,Fulham
+22259,Away,1.732,0.157454545,11,1,0.090909091,Manchester United,Arsenal,Arsenal
+22259,Home,0.552,0.039428571,14,0,0,Manchester United,Arsenal,Manchester United
+22260,Away,1.965,0.131,15,1,0.066666667,Newcastle United,Brighton,Brighton
+22260,Home,2.453,0.136277778,18,1,0.055555556,Newcastle United,Brighton,Newcastle United
+22261,Away,2.409,0.20075,12,3,0.25,Nottingham Forest,Chelsea,Chelsea
+22261,Home,2.447,0.12235,20,2,0.1,Nottingham Forest,Chelsea,Nottingham Forest
+22262,Away,0.951,0.135857143,7,1,0.142857143,Tottenham,Burnley,Burnley
+22262,Home,3.002,0.142952381,21,2,0.095238095,Tottenham,Burnley,Tottenham
+22263,Away,0.641,0.16025,4,1,0.25,West Ham,Luton,Luton
+22263,Home,3.736,0.155666667,24,3,0.125,West Ham,Luton,West Ham
+22264,Away,2.593,0.199461538,13,3,0.230769231,Wolverhampton Wanderers,Crystal Palace,Crystal Palace
+22264,Home,1.156,0.088923077,13,1,0.076923077,Wolverhampton Wanderers,Crystal Palace,Wolverhampton Wanderers
+22265,Away,0.708,0.1416,5,1,0.2,Arsenal,Everton,Everton
+22265,Home,3.551,0.136576923,26,2,0.076923077,Arsenal,Everton,Arsenal
+22266,Away,3.716,0.309666667,12,4,0.333333333,Brentford,Newcastle United,Newcastle United
+22266,Home,1.701,0.1701,10,2,0.2,Brentford,Newcastle United,Brentford
+22267,Away,1.004,0.091272727,11,2,0.181818182,Brighton,Manchester United,Manchester United
+22267,Home,1.972,0.116,17,0,0,Brighton,Manchester United,Brighton
+22268,Away,1.582,0.131833333,12,2,0.166666667,Burnley,Nottingham Forest,Nottingham Forest
+22268,Home,1.085,0.05425,20,1,0.05,Burnley,Nottingham Forest,Burnley
+22269,Away,2.197,0.099863636,22,0,0,Chelsea,Bournemouth,Bournemouth
+22269,Home,1.597,0.093941176,17,2,0.117647059,Chelsea,Bournemouth,Chelsea
+22270,Away,0.599,0.074875,8,0,0,Crystal Palace,Aston Villa,Aston Villa
+22270,Home,2.233,0.148866667,15,5,0.333333333,Crystal Palace,Aston Villa,Crystal Palace
+22271,Away,0.731,0.18275,4,0,0,Liverpool,Wolverhampton Wanderers,Wolverhampton Wanderers
+22271,Home,5.863,0.162861111,36,2,0.055555556,Liverpool,Wolverhampton Wanderers,Liverpool
+22272,Away,1.117,0.074466667,15,4,0.266666667,Luton,Fulham,Fulham
+22272,Home,2.067,0.1378,15,2,0.133333333,Luton,Fulham,Luton
+22273,Away,0.24,0.08,3,1,0.333333333,Manchester City,West Ham,West Ham
+22273,Home,2.321,0.082892857,28,3,0.107142857,Manchester City,West Ham,Manchester City
+22274,Away,3.199,0.177722222,18,3,0.166666667,Sheffield United,Tottenham,Tottenham
+22274,Home,0.697,0.116166667,6,0,0,Sheffield United,Tottenham,Sheffield United
+22275,Away,2.472,0.145411765,17,3,0.176470588,Burnley,Manchester City,Manchester City
+22275,Home,0.311,0.051833333,6,0,0,Burnley,Manchester City,Burnley
+22276,Away,0.967,0.161166667,6,1,0.166666667,Arsenal,Nottingham Forest,Nottingham Forest
+22276,Home,0.843,0.0562,15,2,0.133333333,Arsenal,Nottingham Forest,Arsenal
+22277,Away,1.482,0.092625,16,1,0.0625,Bournemouth,West Ham,West Ham
+22277,Home,1.511,0.107928571,14,1,0.071428571,Bournemouth,West Ham,Bournemouth
+22278,Away,1.886,0.209555556,9,1,0.111111111,Brighton,Luton,Luton
+22278,Home,4.369,0.161814815,27,4,0.148148148,Brighton,Luton,Brighton
+22279,Away,1.582,0.175777778,9,1,0.111111111,Everton,Fulham,Fulham
+22279,Home,2.59,0.136315789,19,0,0,Everton,Fulham,Everton
+22280,Away,2.279,0.094958333,24,1,0.041666667,Sheffield United,Crystal Palace,Crystal Palace
+22280,Home,0.422,0.05275,8,0,0,Sheffield United,Crystal Palace,Sheffield United
+22281,Away,1.607,0.107133333,15,1,0.066666667,Newcastle United,Aston Villa,Aston Villa
+22281,Home,4.322,0.254235294,17,5,0.294117647,Newcastle United,Aston Villa,Newcastle United
+22282,Away,1.455,0.080833333,18,2,0.111111111,Brentford,Tottenham,Tottenham
+22282,Home,1.91,0.173636364,11,2,0.181818182,Brentford,Tottenham,Brentford
+22283,Away,1.301,0.100076923,13,1,0.076923077,Chelsea,Liverpool,Liverpool
+22283,Home,1.933,0.1933,10,1,0.1,Chelsea,Liverpool,Chelsea
+22284,Away,1.786,0.077652174,23,0,0,Manchester United,Wolverhampton Wanderers,Wolverhampton Wanderers
+22284,Home,1.971,0.1314,15,1,0.066666667,Manchester United,Wolverhampton Wanderers,Manchester United
+22285,Away,0.552,0.078857143,7,1,0.142857143,Nottingham Forest,Sheffield United,Sheffield United
+22285,Home,1.374,0.085875,16,2,0.125,Nottingham Forest,Sheffield United,Nottingham Forest
+22286,Away,3.155,0.1971875,16,4,0.25,Wolverhampton Wanderers,Brighton,Brighton
+22286,Home,2.692,0.16825,16,1,0.0625,Wolverhampton Wanderers,Brighton,Wolverhampton Wanderers
+22287,Away,3.52,0.207058824,17,3,0.176470588,Fulham,Brentford,Brentford
+22287,Home,0.399,0.044333333,9,0,0,Fulham,Brentford,Fulham
+22288,Away,1.513,0.116384615,13,1,0.076923077,Liverpool,Bournemouth,Bournemouth
+22288,Home,3.794,0.145923077,26,3,0.115384615,Liverpool,Bournemouth,Liverpool
+22289,Away,0.922,0.065857143,14,2,0.142857143,Luton,Burnley,Burnley
+22289,Home,1.531,0.085055556,18,1,0.055555556,Luton,Burnley,Luton
+22290,Away,2.447,0.106391304,23,0,0,Tottenham,Manchester United,Manchester United
+22290,Home,2.554,0.150235294,17,1,0.058823529,Tottenham,Manchester United,Tottenham
+22291,Away,0.256,0.036571429,7,0,0,Manchester City,Newcastle United,Newcastle United
+22291,Home,1.224,0.087428571,14,1,0.071428571,Manchester City,Newcastle United,Manchester City
+22292,Away,0.721,0.080111111,9,0,0,Aston Villa,Everton,Everton
+22292,Home,3.242,0.249384615,13,4,0.307692308,Aston Villa,Everton,Aston Villa
+22293,Away,1.611,0.094764706,17,1,0.058823529,West Ham,Chelsea,Chelsea
+22293,Home,1.711,0.142583333,12,3,0.25,West Ham,Chelsea,West Ham
+22294,Away,2.211,0.157928571,14,1,0.071428571,Crystal Palace,Arsenal,Arsenal
+22294,Home,1.074,0.076714286,14,0,0,Crystal Palace,Arsenal,Crystal Palace
+22295,Away,0.465,0.042272727,11,0,0,Chelsea,Luton,Luton
+22295,Home,3.413,0.179631579,19,3,0.157894737,Chelsea,Luton,Chelsea
+22296,Away,2.28,0.134117647,17,2,0.117647059,Bournemouth,Tottenham,Tottenham
+22296,Home,0.485,0.044090909,11,0,0,Bournemouth,Tottenham,Bournemouth
+22297,Away,0.851,0.106375,8,2,0.25,Arsenal,Fulham,Fulham
+22297,Home,3.24,0.170526316,19,2,0.105263158,Arsenal,Fulham,Arsenal
+22298,Away,1.082,0.072133333,15,1,0.066666667,Brentford,Crystal Palace,Crystal Palace
+22298,Home,0.949,0.079083333,12,1,0.083333333,Brentford,Crystal Palace,Brentford
+22299,Away,1.404,0.127636364,11,1,0.090909091,Everton,Wolverhampton Wanderers,Wolverhampton Wanderers
+22299,Home,1.948,0.129866667,15,0,0,Everton,Wolverhampton Wanderers,Everton
+22300,Away,0.961,0.106777778,9,2,0.222222222,Manchester United,Nottingham Forest,Nottingham Forest
+22300,Home,3.028,0.168222222,18,3,0.166666667,Manchester United,Nottingham Forest,Manchester United
+22301,Away,3.087,0.25725,12,3,0.25,Brighton,West Ham,West Ham
+22301,Home,1.376,0.052923077,26,1,0.038461538,Brighton,West Ham,Brighton
+22302,Away,3.086,0.192875,16,3,0.1875,Burnley,Aston Villa,Aston Villa
+22302,Home,0.632,0.070222222,9,1,0.111111111,Burnley,Aston Villa,Burnley
+22303,Away,3.845,0.128166667,30,2,0.066666667,Sheffield United,Manchester City,Manchester City
+22303,Home,0.763,0.127166667,6,1,0.166666667,Sheffield United,Manchester City,Sheffield United
+22304,Away,0.856,0.095111111,9,2,0.222222222,Newcastle United,Liverpool,Liverpool
+22304,Home,1.623,0.070565217,23,1,0.043478261,Newcastle United,Liverpool,Newcastle United
+26602,Away,0.418710932,0.041871093,10,0,0,Manchester United,Fulham,Fulham
+26602,Home,2.042675396,0.145905385,14,1,0.071428571,Manchester United,Fulham,Manchester United
+26603,Away,3.935329273,0.207122593,19,2,0.105263158,Ipswich,Liverpool,Liverpool
+26603,Home,0.342601348,0.04894305,7,0,0,Ipswich,Liverpool,Ipswich
+26604,Away,0.575834931,0.063981659,9,0,0,Arsenal,Wolverhampton Wanderers,Wolverhampton Wanderers
+26604,Home,1.628303042,0.09046128,18,2,0.111111111,Arsenal,Wolverhampton Wanderers,Arsenal
+26605,Away,1.790827191,0.179082719,10,3,0.3,Everton,Brighton,Brighton
+26605,Home,0.405907856,0.045100873,9,0,0,Everton,Brighton,Everton
+26606,Away,2.153156995,0.113324052,19,0,0,Newcastle United,Southampton,Southampton
+26606,Home,0.433489424,0.144496475,3,1,0.333333333,Newcastle United,Southampton,Newcastle United
+26607,Away,1.909149723,0.146857671,13,1,0.076923077,Nottingham Forest,Bournemouth,Bournemouth
+26607,Home,1.284796976,0.091771213,14,1,0.071428571,Nottingham Forest,Bournemouth,Nottingham Forest
+26608,Away,2.680925339,0.178728356,15,2,0.133333333,West Ham,Aston Villa,Aston Villa
+26608,Home,3.348508741,0.239179196,14,1,0.071428571,West Ham,Aston Villa,West Ham
+26609,Away,1.147566188,0.081969013,14,0,0,Brentford,Crystal Palace,Crystal Palace
+26609,Home,1.44408436,0.144408436,10,2,0.2,Brentford,Crystal Palace,Brentford
+26610,Away,1.18038408,0.107307644,11,2,0.181818182,Chelsea,Manchester City,Manchester City
+26610,Home,1.061225949,0.106122595,10,0,0,Chelsea,Manchester City,Chelsea
+26611,Away,1.407752752,0.093850183,15,1,0.066666667,Leicester,Tottenham,Tottenham
+26611,Home,1.026139959,0.146591423,7,1,0.142857143,Leicester,Tottenham,Leicester
+26612,Away,1.285558126,0.116868921,11,1,0.090909091,Brighton,Manchester United,Manchester United
+26612,Home,2.141525177,0.152966084,14,2,0.142857143,Brighton,Manchester United,Brighton
+26613,Away,1.566224496,0.087012472,18,2,0.111111111,Crystal Palace,West Ham,West Ham
+26613,Home,1.376100244,0.098292875,14,0,0,Crystal Palace,West Ham,Crystal Palace
+26614,Away,0.857005041,0.085700504,10,1,0.1,Fulham,Leicester,Leicester
+26614,Home,1.96218194,0.109010108,18,2,0.111111111,Fulham,Leicester,Fulham
+26615,Away,0.479998529,0.479998529,1,1,1,Manchester City,Ipswich,Ipswich
+26615,Home,3.078180273,0.21987002,14,4,0.285714286,Manchester City,Ipswich,Manchester City
+26616,Away,2.917054006,0.126828435,23,1,0.043478261,Southampton,Nottingham Forest,Nottingham Forest
+26616,Home,0.214951627,0.042990325,5,0,0,Southampton,Nottingham Forest,Southampton
+26617,Away,0.656360723,0.065636072,10,0,0,Tottenham,Everton,Everton
+26617,Home,2.611426696,0.200878977,13,4,0.307692308,Tottenham,Everton,Tottenham
+26618,Away,1.41398662,0.157109624,9,2,0.222222222,Aston Villa,Arsenal,Arsenal
+26618,Home,1.344039698,0.122185427,11,0,0,Aston Villa,Arsenal,Aston Villa
+26619,Away,2.029353965,0.144953855,14,6,0.428571429,Wolverhampton Wanderers,Chelsea,Chelsea
+26619,Home,2.418102378,0.201508532,12,2,0.166666667,Wolverhampton Wanderers,Chelsea,Wolverhampton Wanderers
+26620,Away,1.892870178,0.135205013,14,1,0.071428571,Bournemouth,Newcastle United,Newcastle United
+26620,Home,2.535133001,0.158445813,16,1,0.0625,Bournemouth,Newcastle United,Bournemouth
+26621,Away,0.457239107,0.057154888,8,0,0,Liverpool,Brentford,Brentford
+26621,Home,2.756623599,0.145085453,19,2,0.105263158,Liverpool,Brentford,Liverpool
+26622,Away,1.966304896,0.089377495,22,1,0.045454545,Arsenal,Brighton,Brighton
+26622,Home,2.417976129,0.219816012,11,1,0.090909091,Arsenal,Brighton,Arsenal
+26623,Away,1.647134464,0.09150747,18,1,0.055555556,Brentford,Southampton,Southampton
+26623,Home,3.894881465,0.194744073,20,3,0.15,Brentford,Southampton,Brentford
+26624,Away,3.306605256,0.194506192,17,3,0.176470588,Everton,Bournemouth,Bournemouth
+26624,Home,2.556290934,0.142016163,18,2,0.111111111,Everton,Bournemouth,Everton
+26625,Away,1.188834752,0.13209275,9,1,0.111111111,Ipswich,Fulham,Fulham
+26625,Home,0.707048439,0.064277131,11,1,0.090909091,Ipswich,Fulham,Ipswich
+26626,Away,2.163850971,0.216385097,10,2,0.2,Leicester,Aston Villa,Aston Villa
+26626,Home,0.774740525,0.086082281,9,1,0.111111111,Leicester,Aston Villa,Leicester
+26627,Away,1.103084487,0.100280408,11,1,0.090909091,Nottingham Forest,Wolverhampton Wanderers,Wolverhampton Wanderers
+26627,Home,1.410686873,0.08816793,16,1,0.0625,Nottingham Forest,Wolverhampton Wanderers,Nottingham Forest
+26628,Away,3.201973366,0.133415557,24,3,0.125,West Ham,Manchester City,Manchester City
+26628,Home,0.947201223,0.094720122,10,0,0,West Ham,Manchester City,West Ham
+26629,Away,1.645889135,0.082294457,20,0,0,Newcastle United,Tottenham,Tottenham
+26629,Home,1.586936254,0.158693625,10,2,0.2,Newcastle United,Tottenham,Newcastle United
+26630,Away,0.461259151,0.051251017,9,1,0.111111111,Chelsea,Crystal Palace,Crystal Palace
+26630,Home,2.977430449,0.229033111,13,1,0.076923077,Chelsea,Crystal Palace,Chelsea
+26631,Away,2.103968299,0.191269845,11,3,0.272727273,Manchester United,Liverpool,Liverpool
+26631,Home,1.50086669,0.187608336,8,0,0,Manchester United,Liverpool,Manchester United
+26632,Away,3.026930448,0.151346522,20,3,0.15,Southampton,Manchester United,Manchester United
+26632,Home,1.513524712,0.252254119,6,0,0,Southampton,Manchester United,Southampton
+26633,Away,0.723930173,0.120655029,6,0,0,Brighton,Ipswich,Ipswich
+26633,Home,2.097727055,0.099891765,21,0,0,Brighton,Ipswich,Brighton
+26634,Away,0.68271878,0.062065344,11,1,0.090909091,Fulham,West Ham,West Ham
+26634,Home,2.886009379,0.137429018,21,1,0.047619048,Fulham,West Ham,Fulham
+26635,Away,0.589532511,0.117906502,5,1,0.2,Liverpool,Nottingham Forest,Nottingham Forest
+26635,Home,1.1704416,0.083602971,14,0,0,Liverpool,Nottingham Forest,Liverpool
+26636,Away,1.651870409,0.183541157,9,2,0.222222222,Crystal Palace,Leicester,Leicester
+26636,Home,2.90307222,0.145153611,20,2,0.1,Crystal Palace,Leicester,Crystal Palace
+26637,Away,1.050943166,0.131367896,8,1,0.125,Manchester City,Brentford,Brentford
+26637,Home,1.552786236,0.086265902,18,2,0.111111111,Manchester City,Brentford,Manchester City
+26638,Away,0.852157791,0.142026299,6,2,0.333333333,Aston Villa,Everton,Everton
+26638,Home,3.178061648,0.186944803,17,3,0.176470588,Aston Villa,Everton,Aston Villa
+26639,Away,0.932725884,0.093272588,10,1,0.1,Bournemouth,Chelsea,Chelsea
+26639,Home,1.537309199,0.08091101,19,0,0,Bournemouth,Chelsea,Bournemouth
+26640,Away,1.120897022,0.160128146,7,1,0.142857143,Tottenham,Arsenal,Arsenal
+26640,Home,0.792595425,0.052839695,15,0,0,Tottenham,Arsenal,Tottenham
+26641,Away,1.488065838,0.106290417,14,2,0.142857143,Wolverhampton Wanderers,Newcastle United,Newcastle United
+26641,Home,1.469694106,0.122474509,12,1,0.083333333,Wolverhampton Wanderers,Newcastle United,Wolverhampton Wanderers
+26642,Away,2.397269383,0.199772449,12,3,0.25,West Ham,Chelsea,Chelsea
+26642,Home,0.758535085,0.050569006,15,0,0,West Ham,Chelsea,West Ham
+26643,Away,1.644995447,0.126538111,13,1,0.076923077,Southampton,Ipswich,Ipswich
+26643,Home,2.98272805,0.271157095,11,1,0.090909091,Southampton,Ipswich,Southampton
+26644,Away,1.830550575,0.114409411,16,1,0.0625,Leicester,Everton,Everton
+26644,Home,1.337933166,0.111494431,12,1,0.083333333,Leicester,Everton,Leicester
+26645,Away,1.488165592,0.078324505,19,0,0,Liverpool,Bournemouth,Bournemouth
+26645,Home,2.437313244,0.128279644,19,3,0.157894737,Liverpool,Bournemouth,Liverpool
+26646,Away,1.098520142,0.073234676,15,1,0.066666667,Fulham,Newcastle United,Newcastle United
+26646,Home,3.213148052,0.146052184,22,3,0.136363636,Fulham,Newcastle United,Fulham
+26647,Away,0.520117415,0.052011742,10,1,0.1,Aston Villa,Wolverhampton Wanderers,Wolverhampton Wanderers
+26647,Home,2.373512798,0.263723644,9,3,0.333333333,Aston Villa,Wolverhampton Wanderers,Aston Villa
+26648,Away,0.89356507,0.148927512,6,1,0.166666667,Tottenham,Brentford,Brentford
+26648,Home,4.13901239,0.17995706,23,3,0.130434783,Tottenham,Brentford,Tottenham
+26649,Away,2.450990032,0.163399335,15,0,0,Crystal Palace,Manchester United,Manchester United
+26649,Home,1.69830598,0.188700664,9,0,0,Crystal Palace,Manchester United,Crystal Palace
+26650,Away,1.369229831,0.342307458,4,2,0.5,Brighton,Nottingham Forest,Nottingham Forest
+26650,Home,1.568358242,0.112025589,14,2,0.142857143,Brighton,Nottingham Forest,Brighton
+26651,Away,1.284106959,0.256821392,5,2,0.4,Manchester City,Arsenal,Arsenal
+26651,Home,2.862886603,0.086754139,33,2,0.060606061,Manchester City,Arsenal,Manchester City
+26652,Away,1.265164819,0.079072801,16,1,0.0625,Newcastle United,Manchester City,Manchester City
+26652,Home,1.343440464,0.122130951,11,1,0.090909091,Newcastle United,Manchester City,Newcastle United
+26653,Away,1.439816797,0.102844057,14,1,0.071428571,Nottingham Forest,Fulham,Fulham
+26653,Home,0.616301809,0.056027437,11,0,0,Nottingham Forest,Fulham,Nottingham Forest
+26654,Away,1.130503374,0.066500198,17,1,0.058823529,Everton,Crystal Palace,Crystal Palace
+26654,Home,1.109586335,0.138698292,8,2,0.25,Everton,Crystal Palace,Everton
+26655,Away,0.337908969,0.056318162,6,2,0.333333333,Arsenal,Leicester,Leicester
+26655,Home,6.178353242,0.171620923,36,3,0.083333333,Arsenal,Leicester,Arsenal
+26656,Away,0.883150908,0.046481627,19,1,0.052631579,Brentford,West Ham,West Ham
+26656,Home,0.370222234,0.046277779,8,1,0.125,Brentford,West Ham,Brentford
+26657,Away,1.207116685,0.080474446,15,2,0.133333333,Chelsea,Brighton,Brighton
+26657,Home,3.658393178,0.243892879,15,4,0.266666667,Chelsea,Brighton,Chelsea
+26658,Away,2.117242819,0.211724282,10,2,0.2,Wolverhampton Wanderers,Liverpool,Liverpool
+26658,Home,0.74892486,0.106989266,7,1,0.142857143,Wolverhampton Wanderers,Liverpool,Wolverhampton Wanderers
+26659,Away,1.144944176,0.163563454,7,2,0.285714286,Ipswich,Aston Villa,Aston Villa
+26659,Home,1.846082805,0.123072187,15,2,0.133333333,Ipswich,Aston Villa,Ipswich
+26660,Away,5.614444739,0.233935197,24,3,0.125,Manchester United,Tottenham,Tottenham
+26660,Home,0.600721394,0.054611036,11,0,0,Manchester United,Tottenham,Manchester United
+26661,Away,0.69606769,0.077340854,9,1,0.111111111,Bournemouth,Southampton,Southampton
+26661,Home,1.442154673,0.103011048,14,3,0.214285714,Bournemouth,Southampton,Bournemouth
+26662,Away,2.073316481,0.12958228,16,1,0.0625,Crystal Palace,Liverpool,Liverpool
+26662,Home,0.609481229,0.067720137,9,0,0,Crystal Palace,Liverpool,Crystal Palace
+26663,Away,1.951605538,0.114800326,17,0,0,Leicester,Bournemouth,Bournemouth
+26663,Home,0.91206308,0.152010513,6,1,0.166666667,Leicester,Bournemouth,Leicester
+26664,Away,2.758462077,0.25076928,11,2,0.181818182,Manchester City,Fulham,Fulham
+26664,Home,1.37122397,0.068561199,20,3,0.15,Manchester City,Fulham,Manchester City
+26665,Away,1.184626106,0.131625123,9,1,0.111111111,West Ham,Ipswich,Ipswich
+26665,Home,4.584099971,0.199308694,23,4,0.173913043,West Ham,Ipswich,West Ham
+26666,Away,1.302638942,0.162829868,8,1,0.125,Arsenal,Southampton,Southampton
+26666,Home,3.36583181,0.116063166,29,3,0.103448276,Arsenal,Southampton,Arsenal
+26667,Away,0.696254129,0.040956125,17,3,0.176470588,Brentford,Wolverhampton Wanderers,Wolverhampton Wanderers
+26667,Home,4.136057882,0.217687257,19,5,0.263157895,Brentford,Wolverhampton Wanderers,Brentford
+26668,Away,1.666537769,0.104158611,16,1,0.0625,Chelsea,Nottingham Forest,Nottingham Forest
+26668,Home,2.282571886,0.103753268,22,1,0.045454545,Chelsea,Nottingham Forest,Chelsea
+26669,Away,1.790481105,0.127891508,14,0,0,Everton,Newcastle United,Newcastle United
+26669,Home,0.749243894,0.093655487,8,0,0,Everton,Newcastle United,Everton
+26670,Away,0.449980327,0.044998033,10,0,0,Aston Villa,Manchester United,Manchester United
+26670,Home,0.532809171,0.048437197,11,0,0,Aston Villa,Manchester United,Aston Villa
+26671,Away,1.093139999,0.084087692,13,2,0.153846154,Brighton,Tottenham,Tottenham
+26671,Home,1.972171126,0.179288284,11,3,0.272727273,Brighton,Tottenham,Brighton
+26672,Away,0.858803366,0.071566947,12,1,0.083333333,Tottenham,West Ham,West Ham
+26672,Home,1.440517842,0.065478084,22,3,0.136363636,Tottenham,West Ham,Tottenham
+26673,Away,1.438676427,0.102762602,14,2,0.142857143,Fulham,Aston Villa,Aston Villa
+26673,Home,2.630742872,0.239158443,11,1,0.090909091,Fulham,Aston Villa,Fulham
+26674,Away,1.608037641,0.14618524,11,2,0.181818182,Ipswich,Everton,Everton
+26674,Home,1.173999475,0.090307652,13,0,0,Ipswich,Everton,Ipswich
+26675,Away,0.892842571,0.111605321,8,1,0.125,Manchester United,Brentford,Brentford
+26675,Home,1.765549895,0.076763039,23,2,0.086956522,Manchester United,Brentford,Manchester United
+26676,Away,1.678797135,0.167879714,10,1,0.1,Newcastle United,Brighton,Brighton
+26676,Home,1.940869686,0.092422366,21,0,0,Newcastle United,Brighton,Newcastle United
+26677,Away,0.835868189,0.041793409,20,0,0,Nottingham Forest,Crystal Palace,Crystal Palace
+26677,Home,1.891400503,0.094570025,20,1,0.05,Nottingham Forest,Crystal Palace,Nottingham Forest
+26678,Away,2.838264687,0.157681372,18,3,0.166666667,Southampton,Leicester,Leicester
+26678,Home,2.434364955,0.173883211,14,2,0.142857143,Southampton,Leicester,Southampton
+26679,Away,1.340475895,0.111706325,12,1,0.083333333,Liverpool,Chelsea,Chelsea
+26679,Home,2.22517148,0.278146435,8,2,0.25,Liverpool,Chelsea,Liverpool
+26680,Away,0.829546802,0.1382578,6,0,0,Bournemouth,Arsenal,Arsenal
+26680,Home,2.184187336,0.16801441,13,2,0.153846154,Bournemouth,Arsenal,Bournemouth
+26681,Away,1.369582873,0.062253767,22,2,0.090909091,Wolverhampton Wanderers,Manchester City,Manchester City
+26681,Home,0.761216625,0.253738875,3,1,0.333333333,Wolverhampton Wanderers,Manchester City,Wolverhampton Wanderers
+26682,Away,2.585237228,0.129261861,20,3,0.15,Leicester,Nottingham Forest,Nottingham Forest
+26682,Home,0.832415393,0.075674127,11,1,0.090909091,Leicester,Nottingham Forest,Leicester
+26683,Away,0.369988605,0.073997721,5,0,0,Manchester City,Southampton,Southampton
+26683,Home,3.162859214,0.143766328,22,1,0.045454545,Manchester City,Southampton,Manchester City
+26684,Away,0.328651493,0.029877408,11,1,0.090909091,Aston Villa,Bournemouth,Bournemouth
+26684,Home,1.973998266,0.10966657,18,1,0.055555556,Aston Villa,Bournemouth,Aston Villa
+26685,Away,1.656977262,0.138081439,12,3,0.25,Brentford,Ipswich,Ipswich
+26685,Home,4.096629769,0.204831488,20,3,0.15,Brentford,Ipswich,Brentford
+26686,Away,1.136998747,0.081214196,14,2,0.142857143,Brighton,Wolverhampton Wanderers,Wolverhampton Wanderers
+26686,Home,1.51452558,0.079711873,19,2,0.105263158,Brighton,Wolverhampton Wanderers,Brighton
+26687,Away,1.49910225,0.107078732,14,1,0.071428571,Everton,Fulham,Fulham
+26687,Home,0.884845431,0.088484543,10,1,0.1,Everton,Fulham,Everton
+26688,Away,1.746543693,0.158776699,11,1,0.090909091,Chelsea,Newcastle United,Newcastle United
+26688,Home,1.617937158,0.095172774,17,2,0.117647059,Chelsea,Newcastle United,Chelsea
+26689,Away,1.019197573,0.092654325,11,0,0,Crystal Palace,Tottenham,Tottenham
+26689,Home,0.981878543,0.070134182,14,1,0.071428571,Crystal Palace,Tottenham,Crystal Palace
+26690,Away,2.654681858,0.147482325,18,1,0.055555556,West Ham,Manchester United,Manchester United
+26690,Home,3.056178127,0.254681511,12,2,0.166666667,West Ham,Manchester United,West Ham
+26691,Away,1.353456316,0.150384035,9,2,0.222222222,Arsenal,Liverpool,Liverpool
+26691,Home,1.088299175,0.120922131,9,2,0.222222222,Arsenal,Liverpool,Arsenal
+26692,Away,2.646974926,0.13931447,19,1,0.052631579,Bournemouth,Manchester City,Manchester City
+26692,Home,2.56452915,0.213710762,12,2,0.166666667,Bournemouth,Manchester City,Bournemouth
+26693,Away,0.739231313,0.147846263,5,1,0.2,Fulham,Brentford,Brentford
+26693,Home,1.445846088,0.055609465,26,2,0.076923077,Fulham,Brentford,Fulham
+26694,Away,0.919255389,0.091925539,10,0,0,Newcastle United,Arsenal,Arsenal
+26694,Home,0.859715191,0.09552391,9,1,0.111111111,Newcastle United,Arsenal,Newcastle United
+26695,Away,2.341105882,0.117055294,20,1,0.05,Ipswich,Leicester,Leicester
+26695,Home,1.340055876,0.095718277,14,1,0.071428571,Ipswich,Leicester,Ipswich
+26696,Away,1.015681764,0.078129366,13,1,0.076923077,Liverpool,Brighton,Brighton
+26696,Home,1.810369627,0.113148102,16,2,0.125,Liverpool,Brighton,Liverpool
+26697,Away,1.242237347,0.103519779,12,1,0.083333333,Manchester United,Chelsea,Chelsea
+26697,Home,2.160503865,0.196409442,11,1,0.090909091,Manchester United,Chelsea,Manchester United
+26698,Away,0.132316981,0.033079245,4,0,0,Nottingham Forest,West Ham,West Ham
+26698,Home,2.350107746,0.123689881,19,3,0.157894737,Nottingham Forest,West Ham,Nottingham Forest
+26699,Away,1.787790929,0.111736933,16,0,0,Southampton,Everton,Everton
+26699,Home,0.540345021,0.060038336,9,1,0.111111111,Southampton,Everton,Southampton
+26700,Away,2.522529661,0.210210805,12,1,0.083333333,Tottenham,Aston Villa,Aston Villa
+26700,Home,2.097505447,0.13109409,16,4,0.25,Tottenham,Aston Villa,Tottenham
+26701,Away,2.725300841,0.143436886,19,2,0.105263158,Wolverhampton Wanderers,Crystal Palace,Crystal Palace
+26701,Home,1.651167864,0.150106169,11,2,0.181818182,Wolverhampton Wanderers,Crystal Palace,Wolverhampton Wanderers
+26702,Away,2.493347213,0.166223148,15,2,0.133333333,Brentford,Bournemouth,Bournemouth
+26702,Home,1.564741268,0.130395106,12,3,0.25,Brentford,Bournemouth,Brentford
+26703,Away,3.128096404,0.20853976,15,1,0.066666667,Brighton,Manchester City,Manchester City
+26703,Home,2.999816428,0.299981643,10,2,0.2,Brighton,Manchester City,Brighton
+26704,Away,1.922949262,0.113114662,17,3,0.176470588,Nottingham Forest,Newcastle United,Newcastle United
+26704,Home,1.178519391,0.130946599,9,1,0.111111111,Nottingham Forest,Newcastle United,Nottingham Forest
+26705,Away,1.968971923,0.151459379,13,1,0.076923077,Chelsea,Arsenal,Arsenal
+26705,Home,1.24066884,0.07298052,17,1,0.058823529,Chelsea,Arsenal,Chelsea
+26706,Away,2.253307051,0.132547474,17,2,0.117647059,Crystal Palace,Fulham,Fulham
+26706,Home,1.977097451,0.152084419,13,0,0,Crystal Palace,Fulham,Crystal Palace
+26707,Away,1.663367243,0.138613937,12,0,0,Liverpool,Aston Villa,Aston Villa
+26707,Home,2.694971872,0.192497991,14,2,0.142857143,Liverpool,Aston Villa,Liverpool
+26708,Away,0.417295071,0.059613582,7,0,0,Manchester United,Leicester,Leicester
+26708,Home,1.236904085,0.095146468,13,2,0.153846154,Manchester United,Leicester,Manchester United
+26709,Away,2.183915321,0.272989415,8,2,0.25,Tottenham,Ipswich,Ipswich
+26709,Home,1.7536224,0.103154259,17,1,0.058823529,Tottenham,Ipswich,Tottenham
+26710,Away,0.876881343,0.04871563,18,0,0,West Ham,Everton,Everton
+26710,Home,1.123704715,0.102154974,11,0,0,West Ham,Everton,West Ham
+26711,Away,0.792655163,0.088072796,9,0,0,Wolverhampton Wanderers,Southampton,Southampton
+26711,Home,0.913548683,0.114193585,8,2,0.25,Wolverhampton Wanderers,Southampton,Wolverhampton Wanderers
+26712,Away,1.240299709,0.206716618,6,2,0.333333333,Bournemouth,Brighton,Brighton
+26712,Home,1.912269244,0.10623718,18,1,0.055555556,Bournemouth,Brighton,Bournemouth
+26713,Away,0.942823738,0.062854916,15,2,0.133333333,Newcastle United,West Ham,West Ham
+26713,Home,1.529572778,0.084976265,18,0,0,Newcastle United,West Ham,Newcastle United
+26714,Away,0.403135539,0.057590791,7,0,0,Arsenal,Nottingham Forest,Nottingham Forest
+26714,Home,1.67688356,0.088257029,19,3,0.157894737,Arsenal,Nottingham Forest,Arsenal
+26715,Away,1.343139988,0.149237776,9,0,0,Everton,Brentford,Brentford
+26715,Home,1.596871155,0.059143376,27,0,0,Everton,Brentford,Everton
+26716,Away,1.616272299,0.124328638,13,2,0.153846154,Aston Villa,Crystal Palace,Crystal Palace
+26716,Home,3.047652306,0.179273665,17,2,0.117647059,Aston Villa,Crystal Palace,Aston Villa
+26717,Away,1.339030961,0.133903096,10,4,0.4,Fulham,Wolverhampton Wanderers,Wolverhampton Wanderers
+26717,Home,0.717158003,0.0717158,10,1,0.1,Fulham,Wolverhampton Wanderers,Fulham
+26718,Away,1.269122953,0.115374814,11,1,0.090909091,Ipswich,Manchester United,Manchester United
+26718,Home,1.996147356,0.181467941,11,1,0.090909091,Ipswich,Manchester United,Ipswich
+26719,Away,2.914361518,0.182147595,16,2,0.125,Leicester,Chelsea,Chelsea
+26719,Home,0.967987083,0.241996771,4,1,0.25,Leicester,Chelsea,Leicester
+26720,Away,3.304488005,0.367165334,9,4,0.444444444,Manchester City,Tottenham,Tottenham
+26720,Home,2.158988448,0.093869063,23,0,0,Manchester City,Tottenham,Manchester City
+26721,Away,3.194276967,0.118306554,27,3,0.111111111,Southampton,Liverpool,Liverpool
+26721,Home,1.975409375,0.282201339,7,2,0.285714286,Southampton,Liverpool,Southampton
+26722,Away,0.907555384,0.129650769,7,1,0.142857143,Brentford,Leicester,Leicester
+26722,Home,2.220164428,0.170781879,13,4,0.307692308,Brentford,Leicester,Brentford
+26723,Away,0.947631969,0.094763197,10,1,0.1,Brighton,Southampton,Southampton
+26723,Home,1.86985996,0.084993635,22,1,0.045454545,Brighton,Southampton,Brighton
+26724,Away,0.884555642,0.088455564,10,0,0,Chelsea,Aston Villa,Aston Villa
+26724,Home,2.009219774,0.118189398,17,3,0.176470588,Chelsea,Aston Villa,Chelsea
+26725,Away,0.020989025,0.020989025,1,0,0,Crystal Palace,Newcastle United,Newcastle United
+26725,Home,2.391940346,0.140702373,17,1,0.058823529,Crystal Palace,Newcastle United,Crystal Palace
+26726,Away,0.745014964,0.093126871,8,0,0,Liverpool,Manchester City,Manchester City
+26726,Home,3.700535147,0.205585286,18,2,0.111111111,Liverpool,Manchester City,Liverpool
+26727,Away,0.766748767,0.095843596,8,0,0,Manchester United,Everton,Everton
+26727,Home,1.761607486,0.160146135,11,4,0.363636364,Manchester United,Everton,Manchester United
+26728,Away,0.462771139,0.066110163,7,0,0,Nottingham Forest,Ipswich,Ipswich
+26728,Home,1.765872863,0.147156072,12,1,0.083333333,Nottingham Forest,Ipswich,Nottingham Forest
+26729,Away,1.580685396,0.1129061,14,1,0.071428571,Tottenham,Fulham,Fulham
+26729,Home,1.010859301,0.126357413,8,1,0.125,Tottenham,Fulham,Tottenham
+26730,Away,3.999352075,0.249959505,16,5,0.3125,West Ham,Arsenal,Arsenal
+26730,Home,1.242608053,0.103550671,12,2,0.166666667,West Ham,Arsenal,West Ham
+26731,Away,3.079007651,0.256583971,12,4,0.333333333,Wolverhampton Wanderers,Bournemouth,Bournemouth
+26731,Home,0.866034411,0.086603441,10,2,0.2,Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers
+26732,Away,0.62393411,0.051994509,12,0,0,Bournemouth,Tottenham,Tottenham
+26732,Home,3.290576036,0.156694097,21,1,0.047619048,Bournemouth,Tottenham,Bournemouth
+26733,Away,0.256083173,0.051216635,5,0,0,Arsenal,Manchester United,Manchester United
+26733,Home,2.993674307,0.213833879,14,2,0.142857143,Arsenal,Manchester United,Arsenal
+26734,Away,1.132661714,0.125851302,9,1,0.111111111,Aston Villa,Brentford,Brentford
+26734,Home,3.226380451,0.161319023,20,3,0.15,Aston Villa,Brentford,Aston Villa
+26735,Away,0.847723876,0.105965485,8,0,0,Everton,Wolverhampton Wanderers,Wolverhampton Wanderers
+26735,Home,1.502115661,0.115547359,13,2,0.153846154,Everton,Wolverhampton Wanderers,Everton
+26736,Away,1.103977305,0.078855522,14,1,0.071428571,Fulham,Brighton,Brighton
+26736,Home,0.66664439,0.111107398,6,2,0.333333333,Fulham,Brighton,Fulham
+26737,Away,1.654221549,0.127247811,13,1,0.076923077,Ipswich,Crystal Palace,Crystal Palace
+26737,Home,0.471707971,0.052411997,9,0,0,Ipswich,Crystal Palace,Ipswich
+26738,Away,2.902408184,0.09362607,31,1,0.032258065,Leicester,West Ham,West Ham
+26738,Home,2.780609109,0.347576139,8,3,0.375,Leicester,West Ham,Leicester
+26739,Away,0.80215491,0.066846243,12,0,0,Manchester City,Nottingham Forest,Nottingham Forest
+26739,Home,3.22361124,0.189624191,17,3,0.176470588,Manchester City,Nottingham Forest,Manchester City
+26740,Away,2.276900987,0.142306312,16,3,0.1875,Newcastle United,Liverpool,Liverpool
+26740,Home,1.520568605,0.089445212,17,3,0.176470588,Newcastle United,Liverpool,Newcastle United
+26741,Away,6.118420176,0.235323853,26,5,0.192307692,Southampton,Chelsea,Chelsea
+26741,Home,1.910141379,0.318356897,6,1,0.166666667,Southampton,Chelsea,Southampton
+26742,Away,0.38583235,0.096458088,4,0,0,Aston Villa,Southampton,Southampton
+26742,Home,2.521450019,0.140080557,18,1,0.055555556,Aston Villa,Southampton,Aston Villa
+26743,Away,1.961050372,0.122565648,16,2,0.125,Brentford,Newcastle United,Newcastle United
+26743,Home,1.745999084,0.158727189,11,4,0.363636364,Brentford,Newcastle United,Brentford
+26744,Away,0.65280003,0.059345457,11,3,0.272727273,Manchester United,Nottingham Forest,Nottingham Forest
+26744,Home,1.662317749,0.097783397,17,2,0.117647059,Manchester United,Nottingham Forest,Manchester United
+26745,Away,2.580836011,0.151813883,17,4,0.235294118,Tottenham,Chelsea,Chelsea
+26745,Home,3.255767969,0.25044369,13,3,0.230769231,Tottenham,Chelsea,Tottenham
+26746,Away,1.482657241,0.078034592,19,1,0.052631579,West Ham,Wolverhampton Wanderers,Wolverhampton Wanderers
+26746,Home,1.198082489,0.063056973,19,2,0.105263158,West Ham,Wolverhampton Wanderers,West Ham
+26747,Away,1.587434521,0.13228621,12,2,0.166666667,Crystal Palace,Manchester City,Manchester City
+26747,Home,1.214761147,0.101230096,12,2,0.166666667,Crystal Palace,Manchester City,Crystal Palace
+26748,Away,0.964037447,0.160672908,6,2,0.333333333,Everton,Liverpool,Liverpool
+26748,Home,0.910522626,0.091052263,10,2,0.2,Everton,Liverpool,Everton
+26749,Away,2.727600418,0.227300035,12,1,0.083333333,Fulham,Arsenal,Arsenal
+26749,Home,0.150987956,0.075493978,2,1,0.5,Fulham,Arsenal,Fulham
+26750,Away,3.982573799,0.181026082,22,2,0.090909091,Ipswich,Bournemouth,Bournemouth
+26750,Home,1.566804189,0.087044677,18,1,0.055555556,Ipswich,Bournemouth,Ipswich
+26751,Away,1.121839104,0.070114944,16,2,0.125,Leicester,Brighton,Brighton
+26751,Home,1.431811823,0.143181182,10,2,0.2,Leicester,Brighton,Leicester
+26752,Away,1.286197047,0.107183087,12,2,0.166666667,Liverpool,Fulham,Fulham
+26752,Home,2.108669886,0.131791868,16,2,0.125,Liverpool,Fulham,Liverpool
+26753,Away,2.046621635,0.204662164,10,2,0.2,Manchester City,Manchester United,Manchester United
+26753,Home,0.638103255,0.063810326,10,1,0.1,Manchester City,Manchester United,Manchester City
+26754,Away,1.818268305,0.113641769,16,1,0.0625,Bournemouth,West Ham,West Ham
+26754,Home,2.063774674,0.071164644,29,1,0.034482759,Bournemouth,West Ham,Bournemouth
+26755,Away,0.132165606,0.066082803,2,0,0,Arsenal,Everton,Everton
+26755,Home,1.308645377,0.100665029,13,0,0,Arsenal,Everton,Arsenal
+26756,Away,3.049707906,0.217836279,14,3,0.214285714,Brighton,Crystal Palace,Crystal Palace
+26756,Home,1.323233095,0.077837241,17,0,0,Brighton,Crystal Palace,Brighton
+26757,Away,1.697008668,0.188556519,9,1,0.111111111,Chelsea,Brentford,Brentford
+26757,Home,2.595434262,0.099824395,26,2,0.076923077,Chelsea,Brentford,Chelsea
+26758,Away,1.774203273,0.177420327,10,1,0.1,Wolverhampton Wanderers,Ipswich,Ipswich
+26758,Home,1.252883371,0.073699022,17,1,0.058823529,Wolverhampton Wanderers,Ipswich,Wolverhampton Wanderers
+26759,Away,3.992116817,0.221784268,18,5,0.277777778,Southampton,Tottenham,Tottenham
+26759,Home,1.273749262,0.141527696,9,0,0,Southampton,Tottenham,Southampton
+26760,Away,0.186758954,0.046689739,4,0,0,Newcastle United,Leicester,Leicester
+26760,Home,3.971558085,0.147094744,27,4,0.148148148,Newcastle United,Leicester,Newcastle United
+26761,Away,0.389423302,0.048677913,8,1,0.125,Nottingham Forest,Aston Villa,Aston Villa
+26761,Home,2.287121396,0.134536553,17,2,0.117647059,Nottingham Forest,Aston Villa,Nottingham Forest
+26762,Away,1.102585458,0.091882122,12,1,0.083333333,Aston Villa,Manchester City,Manchester City
+26762,Home,2.059881758,0.187261978,11,2,0.181818182,Aston Villa,Manchester City,Aston Villa
+26763,Away,0.280031015,0.056006203,5,0,0,Fulham,Southampton,Southampton
+26763,Home,1.252547354,0.07828421,16,0,0,Fulham,Southampton,Fulham
+26764,Away,1.714443021,0.142870252,12,0,0,Everton,Chelsea,Chelsea
+26764,Home,1.070806167,0.214161233,5,0,0,Everton,Chelsea,Everton
+26765,Away,3.537657283,0.252689806,14,5,0.357142857,Crystal Palace,Arsenal,Arsenal
+26765,Home,1.624510632,0.108300709,15,1,0.066666667,Crystal Palace,Arsenal,Crystal Palace
+26766,Away,0.964896571,0.096489657,10,2,0.2,Brentford,Nottingham Forest,Nottingham Forest
+26766,Home,0.769004439,0.109857777,7,0,0,Brentford,Nottingham Forest,Brentford
+26767,Away,1.380632822,0.115052735,12,1,0.083333333,West Ham,Brighton,Brighton
+26767,Home,1.246576531,0.113325139,11,1,0.090909091,West Ham,Brighton,West Ham
+26768,Away,6.027675982,0.251153166,24,6,0.25,Tottenham,Liverpool,Liverpool
+26768,Home,1.202446652,0.133605184,9,3,0.333333333,Tottenham,Liverpool,Tottenham
+26769,Away,1.828309021,0.182830902,10,3,0.3,Manchester United,Bournemouth,Bournemouth
+26769,Home,2.446880097,0.106386091,23,0,0,Manchester United,Bournemouth,Manchester United
+26770,Away,1.135309832,0.141913729,8,3,0.375,Leicester,Wolverhampton Wanderers,Wolverhampton Wanderers
+26770,Home,0.788679963,0.087631107,9,0,0,Leicester,Wolverhampton Wanderers,Leicester
+26771,Away,3.233857229,0.215590482,15,4,0.266666667,Ipswich,Newcastle United,Newcastle United
+26771,Home,1.064269837,0.106426984,10,0,0,Ipswich,Newcastle United,Ipswich
+26772,Away,0.500066484,0.050006648,10,0,0,Bournemouth,Crystal Palace,Crystal Palace
+26772,Home,1.219476555,0.067748698,18,0,0,Bournemouth,Crystal Palace,Bournemouth
+26773,Away,0.078332742,0.026110914,3,0,0,Arsenal,Ipswich,Ipswich
+26773,Home,2.164615028,0.166508848,13,1,0.076923077,Arsenal,Ipswich,Arsenal
+26774,Away,0.961233008,0.120154126,8,0,0,Brighton,Brentford,Brentford
+26774,Home,1.346876544,0.056119856,24,0,0,Brighton,Brentford,Brighton
+26775,Away,1.779293626,0.127092402,14,2,0.142857143,Chelsea,Fulham,Fulham
+26775,Home,1.560419844,0.130034987,12,1,0.083333333,Chelsea,Fulham,Chelsea
+26776,Away,0.223443178,0.055860795,4,1,0.25,Liverpool,Leicester,Leicester
+26776,Home,1.899347525,0.099965659,19,3,0.157894737,Liverpool,Leicester,Liverpool
+26777,Away,0.653289504,0.081661188,8,1,0.125,Manchester City,Everton,Everton
+26777,Home,2.520266635,0.10501111,24,1,0.041666667,Manchester City,Everton,Manchester City
+26778,Away,0.227939297,0.056984824,4,0,0,Newcastle United,Aston Villa,Aston Villa
+26778,Home,2.88540599,0.131154818,22,3,0.136363636,Newcastle United,Aston Villa,Newcastle United
+26779,Away,1.057577913,0.081352147,13,0,0,Nottingham Forest,Tottenham,Tottenham
+26779,Home,1.316296928,0.131629693,10,1,0.1,Nottingham Forest,Tottenham,Nottingham Forest
+26780,Away,1.984524159,0.12403276,16,1,0.0625,Southampton,West Ham,West Ham
+26780,Home,2.198808898,0.12215605,18,0,0,Southampton,West Ham,Southampton
+26781,Away,0.358875666,0.032625061,11,0,0,Wolverhampton Wanderers,Manchester United,Manchester United
+26781,Home,0.826488534,0.118069791,7,2,0.285714286,Wolverhampton Wanderers,Manchester United,Wolverhampton Wanderers
+26782,Away,0.938041669,0.072157051,13,2,0.153846154,Aston Villa,Brighton,Brighton
+26782,Home,1.879965775,0.093998289,20,2,0.1,Aston Villa,Brighton,Aston Villa
+26783,Away,2.105342858,0.150381633,14,3,0.214285714,Brentford,Arsenal,Arsenal
+26783,Home,0.27601845,0.05520369,5,1,0.2,Brentford,Arsenal,Brentford
+26784,Away,1.34114159,0.191591656,7,1,0.142857143,Crystal Palace,Southampton,Southampton
+26784,Home,3.054172876,0.160745941,19,2,0.105263158,Crystal Palace,Southampton,Crystal Palace
+26785,Away,2.174932189,0.197721108,11,2,0.181818182,Everton,Nottingham Forest,Nottingham Forest
+26785,Home,0.615190562,0.047322351,13,0,0,Everton,Nottingham Forest,Everton
+26786,Away,1.706916497,0.106682281,16,2,0.125,Fulham,Bournemouth,Bournemouth
+26786,Home,0.966578351,0.087870759,11,2,0.181818182,Fulham,Bournemouth,Fulham
+26787,Away,1.624891409,0.08124457,20,0,0,Ipswich,Chelsea,Chelsea
+26787,Home,1.500926421,0.166769602,9,2,0.222222222,Ipswich,Chelsea,Ipswich
+26788,Away,1.585893176,0.113278084,14,2,0.142857143,Leicester,Manchester City,Manchester City
+26788,Home,1.843299467,0.167572679,11,0,0,Leicester,Manchester City,Leicester
+26789,Away,2.242398002,0.1868665,12,2,0.166666667,Manchester United,Newcastle United,Newcastle United
+26789,Home,1.006150873,0.100615087,10,0,0,Manchester United,Newcastle United,Manchester United
+26790,Away,0.640697079,0.058245189,11,2,0.181818182,Tottenham,Wolverhampton Wanderers,Wolverhampton Wanderers
+26790,Home,2.28433396,0.175717997,13,2,0.153846154,Tottenham,Wolverhampton Wanderers,Tottenham
+26791,Away,3.298681567,0.149940071,22,5,0.227272727,West Ham,Liverpool,Liverpool
+26791,Home,0.540585744,0.077226535,7,0,0,West Ham,Liverpool,West Ham
+26792,Away,0.561015082,0.062335009,9,0,0,Bournemouth,Everton,Everton
+26792,Home,2.843806369,0.149674019,19,1,0.052631579,Bournemouth,Everton,Bournemouth
+26793,Away,1.029988687,0.257497172,4,1,0.25,Aston Villa,Leicester,Leicester
+26793,Home,2.345600638,0.180430818,13,2,0.153846154,Aston Villa,Leicester,Aston Villa
+26794,Away,1.811423843,0.201269316,9,1,0.111111111,Brighton,Arsenal,Arsenal
+26794,Home,1.765129544,0.160466322,11,1,0.090909091,Brighton,Arsenal,Brighton
+26795,Away,1.522692123,0.101512808,15,1,0.066666667,Crystal Palace,Chelsea,Chelsea
+26795,Home,1.276604585,0.098200353,13,1,0.076923077,Crystal Palace,Chelsea,Crystal Palace
+26796,Away,1.443402636,0.206200377,7,2,0.285714286,Fulham,Ipswich,Ipswich
+26796,Home,2.654692276,0.176979485,15,2,0.133333333,Fulham,Ipswich,Fulham
+26797,Away,1.688960959,0.129920074,13,2,0.153846154,Liverpool,Manchester United,Manchester United
+26797,Home,2.862003935,0.150631786,19,2,0.105263158,Liverpool,Manchester United,Liverpool
+26798,Away,1.534112511,0.085228473,18,1,0.055555556,Manchester City,West Ham,West Ham
+26798,Home,1.979860377,0.197986038,10,3,0.3,Manchester City,West Ham,Manchester City
+26799,Away,5.732756272,0.286637814,20,5,0.25,Southampton,Brentford,Brentford
+26799,Home,0.249613612,0.031201702,8,0,0,Southampton,Brentford,Southampton
+26800,Away,2.481272209,0.177233729,14,2,0.142857143,Tottenham,Newcastle United,Newcastle United
+26800,Home,1.015491976,0.078114767,13,1,0.076923077,Tottenham,Newcastle United,Tottenham
+26801,Away,2.572274362,0.233843124,11,3,0.272727273,Wolverhampton Wanderers,Nottingham Forest,Nottingham Forest
+26801,Home,1.964371902,0.151105531,13,0,0,Wolverhampton Wanderers,Nottingham Forest,Wolverhampton Wanderers
+26802,Away,0.777071374,0.070642852,11,1,0.090909091,Arsenal,Tottenham,Tottenham
+26802,Home,2.273209839,0.162372131,14,1,0.071428571,Arsenal,Tottenham,Arsenal
+26803,Away,2.669802053,0.127133431,21,2,0.095238095,Brentford,Manchester City,Manchester City
+26803,Home,2.394373085,0.133020727,18,2,0.111111111,Brentford,Manchester City,Brentford
+26804,Away,1.306489757,0.118771796,11,1,0.090909091,Everton,Aston Villa,Aston Villa
+26804,Home,1.231261497,0.12312615,10,0,0,Everton,Aston Villa,Everton
+26805,Away,1.063434611,0.096675874,11,2,0.181818182,Ipswich,Brighton,Brighton
+26805,Home,0.268126599,0.05362532,5,0,0,Ipswich,Brighton,Ipswich
+26806,Away,2.265732222,0.251748025,9,2,0.222222222,Leicester,Crystal Palace,Crystal Palace
+26806,Home,2.100034873,0.100001661,21,0,0,Leicester,Crystal Palace,Leicester
+26807,Away,2.722908968,0.118387346,23,1,0.043478261,Nottingham Forest,Liverpool,Liverpool
+26807,Home,0.529200006,0.088200001,6,1,0.166666667,Nottingham Forest,Liverpool,Nottingham Forest
+26808,Away,2.839254624,0.135202601,21,2,0.095238095,West Ham,Fulham,Fulham
+26808,Home,0.937322162,0.234330541,4,3,0.75,West Ham,Fulham,West Ham
+26809,Away,1.148450455,0.164064351,7,2,0.285714286,Chelsea,Bournemouth,Bournemouth
+26809,Home,2.815860537,0.108302328,26,2,0.076923077,Chelsea,Bournemouth,Chelsea
+26810,Away,1.47433088,0.113410068,13,0,0,Newcastle United,Wolverhampton Wanderers,Wolverhampton Wanderers
+26810,Home,2.133272067,0.125486592,17,3,0.176470588,Newcastle United,Wolverhampton Wanderers,Newcastle United
+26811,Away,1.451205701,0.111631208,13,0,0,Manchester United,Southampton,Southampton
+26811,Home,3.126458073,0.130269086,24,3,0.125,Manchester United,Southampton,Manchester United
+26812,Away,1.206017725,0.150752216,8,2,0.25,Arsenal,Aston Villa,Aston Villa
+26812,Home,1.64458421,0.096740248,17,2,0.117647059,Arsenal,Aston Villa,Arsenal
+26813,Away,4.179816696,0.112968019,37,2,0.054054054,Brentford,Liverpool,Liverpool
+26813,Home,1.200211747,0.109110159,11,0,0,Brentford,Liverpool,Brentford
+26814,Away,1.067261187,0.118584576,9,1,0.111111111,Chelsea,Wolverhampton Wanderers,Wolverhampton Wanderers
+26814,Home,3.209334019,0.168912317,19,3,0.157894737,Chelsea,Wolverhampton Wanderers,Chelsea
+26815,Away,1.364089271,0.113674106,12,2,0.166666667,Everton,Tottenham,Tottenham
+26815,Home,2.560890818,0.213407568,12,2,0.166666667,Everton,Tottenham,Everton
+26816,Away,3.209630494,0.188801794,17,6,0.352941176,Ipswich,Manchester City,Manchester City
+26816,Home,0.795636607,0.099454576,8,0,0,Ipswich,Manchester City,Ipswich
+26817,Away,2.651415926,0.155965643,17,2,0.117647059,Leicester,Fulham,Fulham
+26817,Home,0.676933597,0.0846167,8,0,0,Leicester,Fulham,Leicester
+26818,Away,2.171719561,0.36195326,6,3,0.5,Manchester United,Brighton,Brighton
+26818,Home,1.321094394,0.132109439,10,1,0.1,Manchester United,Brighton,Manchester United
+26819,Away,2.735037601,0.143949347,19,4,0.210526316,Newcastle United,Bournemouth,Bournemouth
+26819,Home,0.860310746,0.06617775,13,1,0.076923077,Newcastle United,Bournemouth,Newcastle United
+26820,Away,1.260322878,0.126032288,10,2,0.2,Nottingham Forest,Southampton,Southampton
+26820,Home,3.102542553,0.221610182,14,3,0.214285714,Nottingham Forest,Southampton,Nottingham Forest
+26821,Away,1.625613361,0.13546778,12,2,0.166666667,West Ham,Crystal Palace,Crystal Palace
+26821,Home,0.221061533,0.031580219,7,0,0,West Ham,Crystal Palace,West Ham
+26822,Away,1.000057029,0.055558724,18,0,0,Bournemouth,Nottingham Forest,Nottingham Forest
+26822,Home,2.870561377,0.179410086,16,5,0.3125,Bournemouth,Nottingham Forest,Bournemouth
+26823,Away,1.681588773,0.120113484,14,1,0.071428571,Aston Villa,West Ham,West Ham
+26823,Home,0.909103613,0.064935972,14,1,0.071428571,Aston Villa,West Ham,Aston Villa
+26824,Away,0.870883443,0.290294481,3,1,0.333333333,Brighton,Everton,Everton
+26824,Home,0.643779508,0.040236219,16,0,0,Brighton,Everton,Brighton
+26825,Away,1.920367423,0.147720571,13,2,0.153846154,Crystal Palace,Brentford,Brentford
+26825,Home,1.231765267,0.076985329,16,1,0.0625,Crystal Palace,Brentford,Crystal Palace
+26826,Away,0.201988161,0.05049704,4,1,0.25,Fulham,Manchester United,Manchester United
+26826,Home,0.560570539,0.062285615,9,0,0,Fulham,Manchester United,Fulham
+26827,Away,0.804706892,0.268235631,3,1,0.333333333,Liverpool,Ipswich,Ipswich
+26827,Home,2.276666036,0.142291627,16,4,0.25,Liverpool,Ipswich,Liverpool
+26828,Away,1.498432388,0.149843239,10,1,0.1,Manchester City,Chelsea,Chelsea
+26828,Home,2.360435209,0.157362347,15,3,0.2,Manchester City,Chelsea,Manchester City
+26829,Away,3.083189791,0.181364105,17,3,0.176470588,Southampton,Newcastle United,Newcastle United
+26829,Home,0.825902242,0.068825187,12,1,0.083333333,Southampton,Newcastle United,Southampton
+26830,Away,1.405205361,0.117100447,12,2,0.166666667,Tottenham,Leicester,Leicester
+26830,Home,1.27566278,0.09111877,14,1,0.071428571,Tottenham,Leicester,Tottenham
+26831,Away,0.894105929,0.099345103,9,1,0.111111111,Wolverhampton Wanderers,Arsenal,Arsenal
+26831,Home,0.514723628,0.057191514,9,0,0,Wolverhampton Wanderers,Arsenal,Wolverhampton Wanderers
+26832,Away,2.721903231,0.143258065,19,2,0.105263158,Bournemouth,Liverpool,Liverpool
+26832,Home,1.660508327,0.118607738,14,0,0,Bournemouth,Liverpool,Bournemouth
+26833,Away,0.743190832,0.106170119,7,1,0.142857143,Arsenal,Manchester City,Manchester City
+26833,Home,1.532020978,0.127668415,12,5,0.416666667,Arsenal,Manchester City,Arsenal
+26834,Away,0.946643651,0.072818742,13,1,0.076923077,Brentford,Tottenham,Tottenham
+26834,Home,1.669067581,0.079479409,21,0,0,Brentford,Tottenham,Brentford
+26835,Away,1.186797221,0.079119815,15,1,0.066666667,Chelsea,West Ham,West Ham
+26835,Home,1.416141566,0.064370071,22,1,0.045454545,Chelsea,West Ham,Chelsea
+26836,Away,0.451825843,0.050202871,9,0,0,Everton,Leicester,Leicester
+26836,Home,3.11260931,0.239431485,13,4,0.307692308,Everton,Leicester,Everton
+26837,Away,1.219134391,0.135459377,9,2,0.222222222,Ipswich,Southampton,Southampton
+26837,Home,1.948450653,0.12989671,15,1,0.066666667,Ipswich,Southampton,Ipswich
+26838,Away,2.479206261,0.225382387,11,2,0.181818182,Manchester United,Crystal Palace,Crystal Palace
+26838,Home,1.509265363,0.088780315,17,0,0,Manchester United,Crystal Palace,Manchester United
+26839,Away,1.608812473,0.107254165,15,2,0.133333333,Newcastle United,Fulham,Fulham
+26839,Home,1.227159926,0.111559993,11,1,0.090909091,Newcastle United,Fulham,Newcastle United
+26840,Away,0.756296276,0.068754207,11,0,0,Nottingham Forest,Brighton,Brighton
+26840,Home,4.182436343,0.298745453,14,6,0.428571429,Nottingham Forest,Brighton,Nottingham Forest
+26841,Away,0.742808939,0.074280894,10,0,0,Wolverhampton Wanderers,Aston Villa,Aston Villa
+26841,Home,2.053843416,0.256730427,8,2,0.25,Wolverhampton Wanderers,Aston Villa,Wolverhampton Wanderers
+26842,Away,0.332864252,0.083216063,4,1,0.25,Aston Villa,Ipswich,Ipswich
+26842,Home,2.929321982,0.117172879,25,1,0.04,Aston Villa,Ipswich,Aston Villa
+26843,Away,0.649788465,0.081223558,8,0,0,Brighton,Chelsea,Chelsea
+26843,Home,2.06892193,0.159147841,13,3,0.230769231,Brighton,Chelsea,Brighton
+26844,Away,1.021631795,0.092875618,11,2,0.181818182,Crystal Palace,Everton,Everton
+26844,Home,2.306463991,0.135674352,17,1,0.058823529,Crystal Palace,Everton,Crystal Palace
+26845,Away,0.331679204,0.041459901,8,1,0.125,Fulham,Nottingham Forest,Nottingham Forest
+26845,Home,2.231221887,0.092967579,24,2,0.083333333,Fulham,Nottingham Forest,Fulham
+26846,Away,1.750004259,0.159091296,11,2,0.181818182,Leicester,Arsenal,Arsenal
+26846,Home,0.233209173,0.038868196,6,0,0,Leicester,Arsenal,Leicester
+26847,Away,1.055225579,0.065951599,16,1,0.0625,Liverpool,Wolverhampton Wanderers,Wolverhampton Wanderers
+26847,Home,1.867584332,0.186758433,10,2,0.2,Liverpool,Wolverhampton Wanderers,Liverpool
+26848,Away,0.15721102,0.052403673,3,0,0,Manchester City,Newcastle United,Newcastle United
+26848,Home,2.120038267,0.192730752,11,4,0.363636364,Manchester City,Newcastle United,Manchester City
+26849,Away,2.087222595,0.149087328,14,3,0.214285714,Southampton,Bournemouth,Bournemouth
+26849,Home,0.974417867,0.088583442,11,1,0.090909091,Southampton,Bournemouth,Southampton
+26850,Away,1.433215007,0.089575938,16,0,0,Tottenham,Manchester United,Manchester United
+26850,Home,2.046595169,0.093027053,22,1,0.045454545,Tottenham,Manchester United,Tottenham
+26851,Away,1.964991542,0.140356539,14,1,0.071428571,West Ham,Brentford,Brentford
+26851,Home,0.673465966,0.051805074,13,0,0,West Ham,Brentford,West Ham
+26852,Away,2.115730817,0.162748524,13,1,0.076923077,Bournemouth,Wolverhampton Wanderers,Wolverhampton Wanderers
+26852,Home,0.62969066,0.078711333,8,0,0,Bournemouth,Wolverhampton Wanderers,Bournemouth
+26853,Away,1.026836065,0.205367213,5,1,0.2,Arsenal,West Ham,West Ham
+26853,Home,1.375022321,0.068751116,20,0,0,Arsenal,West Ham,Arsenal
+26854,Away,2.17591485,0.14506099,15,1,0.066666667,Aston Villa,Chelsea,Chelsea
+26854,Home,2.694128584,0.224510715,12,2,0.166666667,Aston Villa,Chelsea,Aston Villa
+26855,Away,0.647795094,0.071977233,9,2,0.222222222,Everton,Manchester United,Manchester United
+26855,Home,2.104437607,0.233826401,9,2,0.222222222,Everton,Manchester United,Everton
+26856,Away,1.497947505,0.149794751,10,1,0.1,Fulham,Crystal Palace,Crystal Palace
+26856,Home,0.234260365,0.021296397,11,0,0,Fulham,Crystal Palace,Fulham
+26857,Away,1.631758366,0.163175837,10,4,0.4,Ipswich,Tottenham,Tottenham
+26857,Home,1.163696482,0.068452734,17,1,0.058823529,Ipswich,Tottenham,Ipswich
+26858,Away,2.068534717,0.14775248,14,4,0.285714286,Leicester,Brentford,Brentford
+26858,Home,0.727900956,0.09098762,8,0,0,Leicester,Brentford,Leicester
+26859,Away,0,0,8,2,0.25,Manchester City,Liverpool,Liverpool
+26859,Home,0,0,16,0,0,Manchester City,Liverpool,Manchester City
+26860,Away,2.439211483,0.143483028,17,3,0.176470588,Newcastle United,Nottingham Forest,Nottingham Forest
+26860,Home,3.490176827,0.268475141,13,4,0.307692308,Newcastle United,Nottingham Forest,Newcastle United
+26861,Away,5.120184723,0.284454707,18,4,0.222222222,Southampton,Brighton,Brighton
+26861,Home,0.154146514,0.025691086,6,0,0,Southampton,Brighton,Southampton
+26862,Away,1.449549821,0.103539273,14,1,0.071428571,Brentford,Everton,Everton
+26862,Home,1.718245274,0.143187106,12,1,0.083333333,Brentford,Everton,Brentford
+26863,Away,1.733823723,0.09125388,19,1,0.052631579,Brighton,Bournemouth,Bournemouth
+26863,Home,2.580788739,0.234617158,11,2,0.181818182,Brighton,Bournemouth,Brighton
+26864,Away,1.317663302,0.101358716,13,0,0,Nottingham Forest,Arsenal,Arsenal
+26864,Home,0.508611111,0.084768519,6,0,0,Nottingham Forest,Arsenal,Nottingham Forest
+26865,Away,2.386414641,0.198867887,12,1,0.083333333,Tottenham,Manchester City,Manchester City
+26865,Home,1.284258381,0.116750762,11,0,0,Tottenham,Manchester City,Tottenham
+26866,Away,0.289578187,0.02632529,11,0,0,West Ham,Leicester,Leicester
+26866,Home,2.071753103,0.258969138,8,1,0.125,West Ham,Leicester,West Ham
+26867,Away,1.43473059,0.130430054,11,2,0.181818182,Wolverhampton Wanderers,Fulham,Fulham
+26867,Home,0.932188022,0.051788223,18,1,0.055555556,Wolverhampton Wanderers,Fulham,Wolverhampton Wanderers
+26868,Away,0.667216863,0.111202811,6,1,0.166666667,Crystal Palace,Aston Villa,Aston Villa
+26868,Home,4.422009995,0.232737368,19,4,0.210526316,Crystal Palace,Aston Villa,Crystal Palace
+26869,Away,0.84503859,0.120719799,7,0,0,Chelsea,Southampton,Southampton
+26869,Home,2.989087055,0.157320371,19,4,0.210526316,Chelsea,Southampton,Chelsea
+26870,Away,0.458820093,0.152940031,3,0,0,Liverpool,Newcastle United,Newcastle United
+26870,Home,1.400268419,0.116689035,12,2,0.166666667,Liverpool,Newcastle United,Liverpool
+26871,Away,1.044982265,0.080383251,13,2,0.153846154,Manchester United,Ipswich,Ipswich
+26871,Home,1.589314373,0.158931437,10,2,0.2,Manchester United,Ipswich,Manchester United
+26872,Away,1.299433975,0.108286165,12,1,0.083333333,Brentford,Aston Villa,Aston Villa
+26872,Home,0.650957215,0.050073632,13,0,0,Brentford,Aston Villa,Brentford
+26873,Away,0.708226951,0.118037825,6,1,0.166666667,Brighton,Fulham,Fulham
+26873,Home,1.944172857,0.216019206,9,2,0.222222222,Brighton,Fulham,Brighton
+26874,Away,0.108486812,0.036162271,3,0,0,Chelsea,Leicester,Leicester
+26874,Home,1.768438098,0.088421905,20,1,0.05,Chelsea,Leicester,Chelsea
+26875,Away,1.988858969,0.132590598,15,0,0,Crystal Palace,Ipswich,Ipswich
+26875,Home,3.138789092,0.165199426,19,1,0.052631579,Crystal Palace,Ipswich,Crystal Palace
+26876,Away,0.511565595,0.085260933,6,1,0.166666667,Liverpool,Southampton,Southampton
+26876,Home,5.109887306,0.182495975,28,3,0.107142857,Liverpool,Southampton,Liverpool
+26877,Away,1.870185673,0.110010922,17,1,0.058823529,Manchester United,Arsenal,Arsenal
+26877,Home,1.311066868,0.131106687,10,1,0.1,Manchester United,Arsenal,Manchester United
+26878,Away,0.72123391,0.051516708,14,0,0,Nottingham Forest,Manchester City,Manchester City
+26878,Home,0.501476091,0.055719566,9,1,0.111111111,Nottingham Forest,Manchester City,Nottingham Forest
+26879,Away,2.248051786,0.13223834,17,2,0.117647059,Tottenham,Bournemouth,Bournemouth
+26879,Home,1.35052801,0.112544001,12,2,0.166666667,Tottenham,Bournemouth,Tottenham
+26880,Away,1.632254468,0.181361608,9,1,0.111111111,West Ham,Newcastle United,Newcastle United
+26880,Home,0.823986415,0.091554046,9,0,0,West Ham,Newcastle United,West Ham
+26881,Away,1.367197425,0.113933119,12,1,0.083333333,Wolverhampton Wanderers,Everton,Everton
+26881,Home,0.812431991,0.073857454,11,1,0.090909091,Wolverhampton Wanderers,Everton,Wolverhampton Wanderers
+26882,Away,0,0,11,2,0.181818182,Bournemouth,Brentford,Brentford
+26882,Home,0,0,17,0,0,Bournemouth,Brentford,Bournemouth
+26883,Away,0.292044941,0.036505618,8,0,0,Arsenal,Chelsea,Chelsea
+26883,Home,0.695724536,0.057977045,12,1,0.083333333,Arsenal,Chelsea,Arsenal
+26884,Away,2.042792603,0.120164271,17,2,0.117647059,Aston Villa,Liverpool,Liverpool
+26884,Home,1.0493584,0.116595378,9,2,0.222222222,Aston Villa,Liverpool,Aston Villa
+26885,Away,0.516028631,0.057336515,9,1,0.111111111,Everton,West Ham,West Ham
+26885,Home,1.189003666,0.09146182,13,1,0.076923077,Everton,West Ham,Everton
+26886,Away,1.408654493,0.117387874,12,0,0,Fulham,Tottenham,Tottenham
+26886,Home,1.03966503,0.079974233,13,2,0.153846154,Fulham,Tottenham,Fulham
+26887,Away,1.307219322,0.11883812,11,4,0.363636364,Ipswich,Nottingham Forest,Nottingham Forest
+26887,Home,0.5208391,0.047349009,11,2,0.181818182,Ipswich,Nottingham Forest,Ipswich
+26888,Away,1.138920128,0.06327334,18,3,0.166666667,Leicester,Manchester United,Manchester United
+26888,Home,1.306943341,0.118813031,11,0,0,Leicester,Manchester United,Leicester
+26889,Away,2.111185816,0.140745721,15,1,0.066666667,Manchester City,Brighton,Brighton
+26889,Home,2.057895137,0.171491261,12,2,0.166666667,Manchester City,Brighton,Manchester City
+26891,Away,0.54071831,0.108143662,5,2,0.4,Southampton,Wolverhampton Wanderers,Wolverhampton Wanderers
+26891,Home,1.319334495,0.13193345,10,1,0.1,Southampton,Wolverhampton Wanderers,Southampton
+26892,Away,1.442064103,0.160229345,9,1,0.111111111,Arsenal,Fulham,Fulham
+26892,Home,2.449328625,0.144078154,17,2,0.117647059,Arsenal,Fulham,Arsenal
+26893,Away,1.207145178,0.150893147,8,3,0.375,Brighton,Aston Villa,Aston Villa
+26893,Home,0.562074902,0.051097718,11,0,0,Brighton,Aston Villa,Brighton
+26894,Away,1.886975204,0.0820424,23,0,0,Nottingham Forest,Manchester United,Manchester United
+26894,Home,0.515032648,0.064379081,8,1,0.125,Nottingham Forest,Manchester United,Nottingham Forest
+26895,Away,1.741020099,0.17410201,10,0,0,Wolverhampton Wanderers,West Ham,West Ham
+26895,Home,1.103585132,0.12262057,9,1,0.111111111,Wolverhampton Wanderers,West Ham,Wolverhampton Wanderers
+26896,Away,1.412627183,0.141262718,10,2,0.2,Bournemouth,Ipswich,Ipswich
+26896,Home,2.048369946,0.085348748,24,1,0.041666667,Bournemouth,Ipswich,Bournemouth
+26897,Away,1.403874277,0.175484285,8,0,0,Chelsea,Tottenham,Tottenham
+26897,Home,1.304425556,0.118584141,11,1,0.090909091,Chelsea,Tottenham,Chelsea
+26898,Away,0.104740969,0.052370484,2,0,0,Manchester City,Leicester,Leicester
+26898,Home,2.072881657,0.115160092,18,2,0.111111111,Manchester City,Leicester,Manchester City
+26899,Away,1.536313712,0.128026143,12,1,0.083333333,Newcastle United,Brentford,Brentford
+26899,Home,2.266559972,0.107931427,21,2,0.095238095,Newcastle United,Brentford,Newcastle United
+26900,Away,0.937760358,0.104195595,9,1,0.111111111,Southampton,Crystal Palace,Crystal Palace
+26900,Home,0.687303705,0.085912963,8,1,0.125,Southampton,Crystal Palace,Southampton
+26901,Away,0.823135682,0.164627136,5,0,0,Liverpool,Everton,Everton
+26901,Home,1.297175277,0.076304428,17,1,0.058823529,Liverpool,Everton,Liverpool
+26902,Away,0.967690037,0.050931055,19,1,0.052631579,Aston Villa,Nottingham Forest,Nottingham Forest
+26902,Home,2.633489044,0.15491112,17,2,0.117647059,Aston Villa,Nottingham Forest,Aston Villa
+26903,Away,1.482681612,0.070603886,21,0,0,Brentford,Chelsea,Chelsea
+26903,Home,1.361233677,0.151248186,9,0,0,Brentford,Chelsea,Brentford
+26904,Away,1.275515991,0.115955999,11,1,0.090909091,Crystal Palace,Brighton,Brighton
+26904,Home,0.443964942,0.055495618,8,2,0.25,Crystal Palace,Brighton,Crystal Palace
+26905,Away,1.438056356,0.102718311,14,1,0.071428571,Everton,Arsenal,Arsenal
+26905,Home,1.228745762,0.245749152,5,1,0.2,Everton,Arsenal,Everton
+26906,Away,1.407286338,0.100520453,14,2,0.142857143,Fulham,Liverpool,Liverpool
+26906,Home,1.751526029,0.145960502,12,3,0.25,Fulham,Liverpool,Fulham
+26907,Away,2.810680309,0.127758196,22,2,0.090909091,Ipswich,Wolverhampton Wanderers,Wolverhampton Wanderers
+26907,Home,0.872355596,0.145392599,6,1,0.166666667,Ipswich,Wolverhampton Wanderers,Ipswich
+26908,Away,3.606873945,0.225429622,16,3,0.1875,Leicester,Newcastle United,Newcastle United
+26908,Home,0.354574574,0.050653511,7,0,0,Leicester,Newcastle United,Leicester
